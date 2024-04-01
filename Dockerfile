@@ -32,3 +32,13 @@ RUN composer install
 
 # Set permissions
 RUN chown -R www-data:www-data /var/www/html/storage /var/www/html/bootstrap/cache
+
+# Create a .env file from .env.example
+RUN if [ -f ".env.example" ]; then \
+        cp .env.example .env; \
+    else \
+        echo "No .env.example file found"; \
+    fi
+
+# Generate application key
+RUN php artisan key:generate --ansi
