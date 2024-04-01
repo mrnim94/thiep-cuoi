@@ -42,3 +42,8 @@ RUN if [ -f ".env.example" ]; then \
 
 # Generate application key
 RUN php artisan key:generate --ansi
+
+# Create the SQLite database file if it does not exist
+# RUN mkdir -p /var/www/html/database
+RUN touch /var/www/html/database/database.sqlite
+RUN chown -R www-data:www-data /var/www/html/database
