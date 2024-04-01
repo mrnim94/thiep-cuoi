@@ -1,6 +1,6 @@
 # Refer to https://github.com/codityco/003-how-to-dockerise-a-laravel-project/blob/main/Dockerfile
 ### https://www.youtube.com/watch?v=uYhowDSkwyk
-FROM php:8.2-apache
+FROM php:8.3.4-apache
 
 # Install dependencies
 RUN apt-get update && \
