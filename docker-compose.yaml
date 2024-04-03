@@ -26,6 +26,6 @@ services:
       APP_DEBUG: "true"
       SESSION_DRIVER: file
     ports:
-      - "8088:80"
+      - "8086:80"
     depends_on:
       - db
