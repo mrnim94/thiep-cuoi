@@ -608,7 +608,7 @@
                                     <h6 style="text-align: center;">CHỦ NHẬT</h6>
                                     <h1 style="text-align: center;"><span style="font-size: 120%;">26 . 05 . 2024</span></h1>
                                     <p style="text-align: center;">Vào lúc, 11 giờ</p>
-                                    <h5 style="text-align: center;">Capella ParkView, Q. Phú Nhật</h5>
+                                    <h5 style="text-align: center;">Capella ParkView, Q. Phú Nhuận</h5>
                                     <div class="text-center"><div class="is-divider divider clearfix" style="max-width: 100px; height: 2px; background-color: rgb(0, 0, 0);"></div></div>
                                 </div>
                             </div>
