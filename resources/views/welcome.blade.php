@@ -1036,11 +1036,11 @@
                                                 width="354"
                                                 height="151"
                                                 src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20354%20151%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                data-src="https://thiepcuoionline.net/wp-content/uploads/2023/04/tungson-cre-copy.png"
+                                                data-src="{{('public/frontend/images/anh-thang.png')}}"
                                                 class="lazy-load attachment-original size-original"
                                                 alt=""
                                                 srcset=""
-                                                data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/04/tungson-cre-copy.png 354w, https://thiepcuoionline.net/wp-content/uploads/2023/04/tungson-cre-copy-300x128.png 300w"
+                                                data-srcset="{{('public/frontend/images/anh-thang.png')}} 354w, {{('public/frontend/images/anh-thang.png')}} 300w"
                                                 sizes="(max-width: 354px) 100vw, 354px"
                                             />
                                         </div>
@@ -1270,11 +1270,11 @@
                                                 width="410"
                                                 height="155"
                                                 src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20410%20155%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                data-src="https://thiepcuoionline.net/wp-content/uploads/2023/04/nhuquynh-coday.png"
+                                                data-src="{{('public/frontend/images/hong-ngoc.png')}}"
                                                 class="lazy-load attachment-original size-original"
                                                 alt=""
                                                 srcset=""
-                                                data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/04/nhuquynh-coday.png 410w, https://thiepcuoionline.net/wp-content/uploads/2023/04/nhuquynh-coday-300x113.png 300w"
+                                                data-srcset="{{('public/frontend/images/hong-ngoc.png')}} 410w, {{('public/frontend/images/hong-ngoc.png')}} 300w"
                                                 sizes="(max-width: 410px) 100vw, 410px"
                                             />
                                         </div>
