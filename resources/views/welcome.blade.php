@@ -522,7 +522,7 @@
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     srcset=""
-                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/03/Khung-doc-dien-thoai.png 1404w, https://thiepcuoionline.net/wp-content/uploads/2023/03/Khung-doc-dien-thoai-300x298.png 300w, https://thiepcuoionline.net/wp-content/uploads/2023/03/Khung-doc-dien-thoai-1024x1017.png 1024w, https://thiepcuoionline.net/wp-content/uploads/2023/03/Khung-doc-dien-thoai-150x150.png 150w, https://thiepcuoionline.net/wp-content/uploads/2023/03/Khung-doc-dien-thoai-768x763.png 768w"
+                                                    data-srcset="{{('public/frontend/images/hongngoc-anhthang.png')}} 1404w, {{('public/frontend/images/hongngoc-anhthang.png')}} 300w, {{('public/frontend/images/hongngoc-anhthang.png')}} 1024w, {{('public/frontend/images/hongngoc-anhthang.png')}} 150w, {{('public/frontend/images/hongngoc-anhthang.png')}} 768w"
                                                     sizes="(max-width: 1404px) 100vw, 1404px"
                                                 />
                                             </div>
