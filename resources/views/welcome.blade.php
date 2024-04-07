@@ -518,7 +518,7 @@
                                                     width="1404"
                                                     height="1394"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201404%201394%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/03/Khung-doc-dien-thoai.png"
+                                                    data-src="{{('public/frontend/images/hongngoc-anhthang.png')}}"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     srcset=""
