@@ -539,7 +539,7 @@
                                             </style>
                                         </div>
 
-                                        <h4><span style="font-size: 90%;">Vào lúc 11 giờ, ngày 01.04.2023</span></h4>
+                                        <h4><span style="font-size: 90%;">Vào lúc 11 giờ, ngày 26.05.2024</span></h4>
                                     </div>
                                 </div>
 
@@ -605,10 +605,10 @@
                             <div id="col-200994440" class="col small-12 large-12">
                                 <div class="col-inner">
                                     <h5 style="text-align: center;">HÔN LỄ ĐƯỢC TỔ CHỨC VÀO</h5>
-                                    <h6 style="text-align: center;">THỨ SÁU</h6>
-                                    <h1 style="text-align: center;"><span style="font-size: 120%;">01 . 04 . 2023</span></h1>
+                                    <h6 style="text-align: center;">CHỦ NHẬT</h6>
+                                    <h1 style="text-align: center;"><span style="font-size: 120%;">26 . 05 . 2024</span></h1>
                                     <p style="text-align: center;">Vào lúc, 11 giờ</p>
-                                    <h5 style="text-align: center;">Mình Châu Palace, TP. Đà Nẵng</h5>
+                                    <h5 style="text-align: center;">Capella ParkView, Q. Phú Nhật</h5>
                                     <div class="text-center"><div class="is-divider divider clearfix" style="max-width: 100px; height: 2px; background-color: rgb(0, 0, 0);"></div></div>
                                 </div>
                             </div>
@@ -1799,6 +1799,22 @@
                                                             </span>
                                                         </span>
                                                     </span>
+                                                </p>
+                                                <p>
+                                                    <label>Bạn sẽ đến cùng ai?</label><br />
+                                                    <span class="wpcf7-form-control-wrap" data-name="menu-334">
+                                                        <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="menu-334">
+                                                            <option value="Mình đi 1 mình">Mình đi 1 mình</option>
+                                                            <option value="Mình đi 2 người">Mình đi 2 người</option>
+                                                            <option value="Mình đi 3 người">Mình đi 3 người</option>
+                                                            <option value="Mình đi 4 người">Mình đi 4 người</option>
+                                                            <option value="Mình đi 5 người">Mình đi 5 người</option>
+                                                        </select>
+                                                    </span>
+                                                </p>
+                                                <p>
+                                                    <label>Gửi lời chúc tới vợ chồng mình </label><br />
+                                                    <span class="wpcf7-form-control-wrap" data-name="textarea-107"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Ghi lời chúc của bạn" name="textarea-107"></textarea></span>
                                                 </p>
                                                 <p><input class="wpcf7-form-control has-spinner wpcf7-submit button" type="submit" value="XÁC NHẬN THAM DỰ" /></p>
                                             </div>
