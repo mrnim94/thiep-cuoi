@@ -171,7 +171,7 @@
         <![endif]-->
         <link rel="icon" href="https://thiepcuoionline.net/wp-content/uploads/2023/02/cropped-wedding-ring-32x32.png" sizes="32x32" />
         <link rel="icon" href="https://thiepcuoionline.net/wp-content/uploads/2023/02/cropped-wedding-ring-192x192.png" sizes="192x192" />
-        <link rel="apple-touch-icon" href="https://thiepcuoionline.net/wp-content/uploads/2023/02/cropped-wedding-ring-180x180.png" />
+        <link rel="apple-touch-icon" href="../wp-content/uploads/2023/02/cropped-wedding-ring-180x180.png" />
         <meta name="msapplication-TileImage" content="https://thiepcuoionline.net/wp-content/uploads/2023/02/cropped-wedding-ring-270x270.png" />
         <style id="custom-css" type="text/css">
             :root {
@@ -2319,11 +2319,10 @@
                 </ul>
             </div>
         </div>
-        <!-- remove zalo -->
         <!-- <div id="arcontactus"></div> -->
 
         <script src="{{'public/wp-content/plugins/ar-contactus/res/js/maskedinput.min5521.js?version=2.2.6'}}"></script>
-        <script type="text/javascript" id="arcu-main-js">
+        <!-- <script type="text/javascript" id="arcu-main-js">
             var $arcuWidget;
             var zaloWidgetInterval;
             var tawkToInterval;
@@ -2525,7 +2524,7 @@
                 };
                 contactUs.init(arcuOptions);
             });
-        </script>
+        </script> -->
         <link rel="stylesheet" id="flatsome-effects-css" href="{{('public/wp-content/themes/flatsome/assets/css/effects8794.css?ver=3.15.7')}}" type="text/css" media="all" />
         <style id="global-styles-inline-css" type="text/css">
             body {
