@@ -1958,7 +1958,7 @@
                         ></path>
                     </svg>
 
-                    <audio loop="" autoplay="" src="/wp-content/themes/flatsome-child/mp3/i-do-duc-phuc-911.mp3"></audio>
+                    <audio loop="" autoplay="" src="{{('public/frontend/music/DiChuaCauDuyen-DucPhuc-13551393.mp3')}}"></audio>
                 </div>
                 <style>
                     .tdk-music {
