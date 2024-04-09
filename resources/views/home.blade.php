@@ -2277,7 +2277,7 @@
                     </div>
                 </div>
 
-                <div class="img has-hover tdk-see-more-template show-for-small x md-x lg-x y md-y lg-y" id="image_1940401612">
+                <!-- <div class="img has-hover tdk-see-more-template show-for-small x md-x lg-x y md-y lg-y" id="image_1940401612">
                     <a class="" href="../kho-thiep-mau-noi-bat/index.html">
                         <div class="img-inner dark">
                             <img
@@ -2304,7 +2304,7 @@
                             }
                         }
                     </style>
-                </div>
+                </div> -->
             </div>
         </div>
 
