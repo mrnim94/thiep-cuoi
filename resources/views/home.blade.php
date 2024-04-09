@@ -2319,7 +2319,8 @@
                 </ul>
             </div>
         </div>
-        <div id="arcontactus"></div>
+        <!-- remove zalo -->
+        <!-- <div id="arcontactus"></div> -->
 
         <script src="{{'public/wp-content/plugins/ar-contactus/res/js/maskedinput.min5521.js?version=2.2.6'}}"></script>
         <script type="text/javascript" id="arcu-main-js">
