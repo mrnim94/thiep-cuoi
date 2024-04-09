@@ -2217,7 +2217,7 @@
                                 </style>
                             </div>
 
-                            <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_418799978">
+                            <!-- <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_418799978">
                                 <a class="" href="../kho-thiep-mau-noi-bat/index.html">
                                     <div class="img-inner dark">
                                         <img
@@ -2244,7 +2244,7 @@
                                         }
                                     }
                                 </style>
-                            </div>
+                            </div> -->
 
                             <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1270199032">
                                 <div class="img-inner dark">
