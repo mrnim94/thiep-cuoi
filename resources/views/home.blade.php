@@ -169,9 +169,9 @@
             </script>
             <script src="https://thiepcuoionline.net/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script>
         <![endif]-->
-        <link rel="icon" href="../wp-content/uploads/2023/02/cropped-wedding-ring-32x32.png" sizes="32x32" />
-        <link rel="icon" href="../wp-content/uploads/2023/02/cropped-wedding-ring-192x192.png" sizes="192x192" />
-        <link rel="apple-touch-icon" href="../wp-content/uploads/2023/02/cropped-wedding-ring-180x180.png" />
+        <link rel="icon" href="https://thiepcuoionline.net/wp-content/uploads/2023/02/cropped-wedding-ring-32x32.png" sizes="32x32" />
+        <link rel="icon" href="https://thiepcuoionline.net/wp-content/uploads/2023/02/cropped-wedding-ring-192x192.png" sizes="192x192" />
+        <link rel="apple-touch-icon" href="https://thiepcuoionline.net/wp-content/uploads/2023/02/cropped-wedding-ring-180x180.png" />
         <meta name="msapplication-TileImage" content="https://thiepcuoionline.net/wp-content/uploads/2023/02/cropped-wedding-ring-270x270.png" />
         <style id="custom-css" type="text/css">
             :root {
@@ -2075,7 +2075,11 @@
                         });
                     })(jQuery);
                 </script>
-
+                <style>
+                .tdk-player-text {
+                    display: none;
+                }
+                </style>
                 <!-- End Music -->
 
                 <div id="gap-953157681" class="gap-element clearfix" style="display: block; height: auto;">
