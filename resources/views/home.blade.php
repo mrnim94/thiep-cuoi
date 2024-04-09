@@ -1960,6 +1960,122 @@
 
                     <audio loop="" autoplay="" src="/wp-content/themes/flatsome-child/mp3/i-do-duc-phuc-911.mp3"></audio>
                 </div>
+                <style>
+                    .tdk-music {
+                        position: fixed;
+                        z-index: 99999;
+                        left: 0;
+                        bottom: 0;
+                        width: 90px;
+                        height: 90px;
+                    }
+                    .tdk-music svg {
+                        fill: white;
+                        position: absolute;
+                        top: calc(50% - 20px);
+                        left: calc(50% - 20px);
+                        width: 40px;
+                        height: 40px;
+                    }
+
+                    @-webkit-keyframes zoom {
+                        0% {
+                            transform: scale(0.9);
+                        }
+                        70% {
+                            transform: scale(1);
+                            box-shadow: 0 0 0 15px transparent;
+                        }
+                        100% {
+                            transform: scale(0.9);
+                            box-shadow: 0 0 0 0 transparent;
+                        }
+                    }
+                    @keyframes zoom {
+                        0% {
+                            transform: scale(0.9);
+                        }
+                        70% {
+                            transform: scale(1);
+                            box-shadow: 0 0 0 15px transparent;
+                        }
+                        100% {
+                            transform: scale(0.9);
+                            box-shadow: 0 0 0 0 transparent;
+                        }
+                    }
+
+                    .tdk-bg-player {
+                        width: 65px;
+                        height: 65px;
+                        top: 12px;
+                        left: 12px;
+                        position: absolute;
+                        box-shadow: 0 0 0 0 #c31d1d;
+                        background-color: rgba(230, 8, 8, 0.7);
+                        border-radius: 50%;
+                        border: 2px solid transparent;
+                        -webkit-animation: phone-vr-circle-fill 2.3s infinite ease-in-out;
+                        animation: phone-vr-circle-fill 2.3s infinite ease-in-out;
+                        transition: all 0.5s;
+                        -webkit-transform-origin: 50% 50%;
+                        -ms-transform-origin: 50% 50%;
+                        transform-origin: 50% 50%;
+                    }
+                    .tdk-player-text {
+                        color: white;
+                        white-space: nowrap;
+                        position: absolute;
+                        top: 25px;
+                        left: 21px;
+                        height: 40px;
+                        line-height: 40px;
+                        background-color: rgba(230, 8, 8, 0.65);
+                        padding: 0 10px 0 60px;
+                        border-radius: 30px;
+                    }
+                    .tdk-music .tdk-icon-pause {
+                        display: none;
+                    }
+
+                    .tdk-music.playing .tdk-bg-player {
+                        -webkit-animuiion: zoom 1.3s infinite;
+                        animation: zoom 1.3s infinite;
+                    }
+                    .tdk-music.playing .tdk-icon-play {
+                        display: none;
+                    }
+                    .tdk-music.playing .tdk-icon-pause {
+                        display: inline;
+                    }
+                </style>
+                <script>
+                    (function ($) {
+                        var eMusic = jQuery(".tdk-music");
+                        var eAudio = eMusic.find("audio")[0];
+
+                        eAudio.addEventListener("play", function () {
+                            eMusic.addClass("playing");
+                            console.log("Playing");
+                        });
+                        eAudio.addEventListener("pause", function () {
+                            eMusic.removeClass("playing");
+                            console.log("Paused");
+                        });
+
+                        eMusic.click(function () {
+                            var e = jQuery(this);
+                            if (e.hasClass("playing")) {
+                                //e.removeClass("playing").find("audio")[0].pause();
+                                eAudio.pause();
+                                return;
+                            }
+                            //e.addClass("playing").find("audio")[0].play();
+                            eAudio.play();
+                        });
+                    })(jQuery);
+                </script>
+
                 <!-- End Music -->
 
                 <div id="gap-953157681" class="gap-element clearfix" style="display: block; height: auto;">
