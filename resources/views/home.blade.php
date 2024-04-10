@@ -2054,6 +2054,22 @@
                         var eMusic = jQuery(".tdk-music");
                         var eAudio = eMusic.find("audio")[0];
 
+                        // Attempt to play the audio when the document is ready
+                        $(document).ready(function() {
+                            // Auto-play functionality, acknowledging that this might not always work
+                            var promise = eAudio.play();
+                            if (promise !== undefined) {
+                                promise.then(_ => {
+                                    // Auto-play started
+                                    eMusic.addClass("playing");
+                                }).catch(error => {
+                                    // Auto-play was prevented.
+                                    // Show a UI element to let the user manually start playback.
+                                    console.log("Auto-play was prevented", error);
+                                });
+                            }
+                        });
+
                         eAudio.addEventListener("play", function () {
                             eMusic.addClass("playing");
                             console.log("Playing");
@@ -2064,14 +2080,11 @@
                         });
 
                         eMusic.click(function () {
-                            var e = jQuery(this);
-                            if (e.hasClass("playing")) {
-                                //e.removeClass("playing").find("audio")[0].pause();
+                            if (eMusic.hasClass("playing")) {
                                 eAudio.pause();
-                                return;
+                            } else {
+                                eAudio.play();
                             }
-                            //e.addClass("playing").find("audio")[0].play();
-                            eAudio.play();
                         });
                     })(jQuery);
                 </script>
