@@ -708,7 +708,7 @@
                                             </style>
                                         </div>
                                     </div>
-                                    <p style="text-align: center;">(Nhằm Ngày 19 Tháng 4 Năm Giáp Thìn)</p>
+                                    <p style="text-align: center;">( Nhằm Ngày 19 Tháng 4 Năm Giáp Thìn )</p>
                                     <p style="text-align: center;"><strong>Đón khách: 11h00 | Nhập tiệc: 12h00</strong></p>
                                 </div>
                             </div>
