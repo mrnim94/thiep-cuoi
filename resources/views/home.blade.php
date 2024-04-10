@@ -1943,7 +1943,7 @@
                     </style>
                 </section>
                 <!-- Music -->
-                <div class="tdk-music playing">
+                <div class="tdk-music">
                     <div class="tdk-bg-player"></div>
                     <div class="tdk-player-text"></div>
                     <svg xmlns="http://www.w3.org/2000/svg" class="tdk-icon-play" width="26" height="26" viewBox="0 0 26 26">
@@ -2051,42 +2051,45 @@
                 </style>
                 <script>
                     (function ($) {
-                        var eMusic = jQuery(".tdk-music");
-                        var eAudio = eMusic.find("audio")[0];
+                    var eMusic = jQuery(".tdk-music");
+                    var eAudio = eMusic.find("audio")[0];
 
-                        // Attempt to play the audio when the document is ready
-                        $(document).ready(function() {
-                            // Auto-play functionality, acknowledging that this might not always work
-                            var promise = eAudio.play();
-                            if (promise !== undefined) {
-                                promise.then(_ => {
-                                    // Auto-play started
-                                    eMusic.addClass("playing");
-                                }).catch(error => {
-                                    // Auto-play was prevented.
-                                    // Show a UI element to let the user manually start playback.
-                                    console.log("Auto-play was prevented", error);
-                                });
-                            }
-                        });
+                    // Function to attempt playback and handle success or failure
+                    function tryPlay() {
+                        var promise = eAudio.play();
+                        if (promise !== undefined) {
+                            promise.then(_ => {
+                                // Auto-play started
+                                eMusic.addClass("playing");
+                                console.log("Playback started");
+                            }).catch(error => {
+                                // Auto-play was prevented
+                                console.log("Auto-play was prevented", error);
+                                // Optionally, show a message or button to the user to start playback manually
+                            });
+                        }
+                    }
 
-                        eAudio.addEventListener("play", function () {
-                            eMusic.addClass("playing");
-                            console.log("Playing");
-                        });
-                        eAudio.addEventListener("pause", function () {
-                            eMusic.removeClass("playing");
-                            console.log("Paused");
-                        });
+                    // Listener for play and pause events to toggle playing class and icons
+                    eAudio.addEventListener("play", function () {
+                        eMusic.addClass("playing");
+                    });
+                    eAudio.addEventListener("pause", function () {
+                        eMusic.removeClass("playing");
+                    });
 
-                        eMusic.click(function () {
-                            if (eMusic.hasClass("playing")) {
-                                eAudio.pause();
-                            } else {
-                                eAudio.play();
-                            }
-                        });
-                    })(jQuery);
+                    // Click event for manual play/pause toggle
+                    eMusic.click(function () {
+                        if (eMusic.hasClass("playing")) {
+                            eAudio.pause();
+                        } else {
+                            tryPlay();
+                        }
+                    });
+
+                    // This could be replaced or augmented with a more explicit user interaction
+                    // For example, a 'Start Experience' button click event that calls tryPlay()
+                })(jQuery);
                 </script>
                 <style>
                 .tdk-player-text {
