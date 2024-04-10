@@ -600,20 +600,8 @@
                                 }
                             </style>
                         </div>
-
-                        <div class="row row-small" id="row-811748867">
-                            <div id="col-200994440" class="col small-12 large-12">
-                                <div class="col-inner">
-                                    <h5 style="text-align: center;">HÔN LỄ ĐƯỢC TỔ CHỨC VÀO</h5>
-                                    <h6 style="text-align: center;">CHỦ NHẬT</h6>
-                                    <h1 style="text-align: center;"><span style="font-size: 120%;">26 . 05 . 2024</span></h1>
-                                    <p style="text-align: center;">Vào lúc, 11 giờ</p>
-                                    <h5 style="text-align: center;">Capella ParkView, Q. Phú Nhuận</h5>
-                                    <div class="text-center"><div class="is-divider divider clearfix" style="max-width: 100px; height: 2px; background-color: rgb(0, 0, 0);"></div></div>
-                                </div>
-                            </div>
-                        </div>
-
+                        
+                        <!-- Lịch cưới -->
                         <div class="row row-collapse align-center hide-for-medium" id="row-1685186844">
                             <div id="col-1470605827" class="col medium-8 small-12 large-8">
                                 <div class="col-inner text-right">
@@ -628,7 +616,7 @@
                                                             <div id="text-2895900597" class="text">
                                                                 <p>
                                                                     <span style="font-size: 120%;">Vào Lúc</span><br />
-                                                                    <span style="font-size: 180%;"><strong>18:00</strong></span>
+                                                                    <span style="font-size: 180%;"><strong>11:00</strong></span>
                                                                 </p>
 
                                                                 <style>
@@ -652,8 +640,8 @@
 
                                                             <div id="text-3338241639" class="text">
                                                                 <h1>
-                                                                    <span style="font-size: 140%;">23.12</span><br />
-                                                                    <span style="font-size: 140%;">2023</span>
+                                                                    <span style="font-size: 140%;">26.05</span><br />
+                                                                    <span style="font-size: 140%;">2024</span>
                                                                 </h1>
 
                                                                 <style>
@@ -690,16 +678,16 @@
                                                     <p class="uppercase">
                                                         <strong>
                                                             <span style="font-size: 140%;">
-                                                                Maison De Charme<br />
-                                                                Restaurant &amp; Events<br />
-                                                                Sảnh Daisy<br />
+                                                                Capella Parkview<br />
+                                                                Wedding &amp; Convention<br />
+                                                                Sảnh Sarin<br />
                                                             </span>
                                                         </strong>
                                                     </p>
                                                     <p>
                                                         <span style="font-size: 120%;">
-                                                            793/57/16 Trần Xuân Soạn,<br />
-                                                            Phường Tân Hưng, Quận 7, TP HCM
+                                                            3 Đặng Văn Sâm,<br />
+                                                            Phường 9, Phú Nhuận, TP HCM
                                                         </span>
                                                     </p>
                                                     <p>&nbsp;</p>
@@ -720,11 +708,32 @@
                                             </style>
                                         </div>
                                     </div>
-                                    <p style="text-align: center;">(Nhằm Ngày 11 Tháng 11 Năm Quý Mão)</p>
-                                    <p style="text-align: center;"><strong>Đón khách: 18h00 | Nhập tiệc: 19h00</strong></p>
+                                    <p style="text-align: center;">(Nhằm Ngày 19 Tháng 4 Năm Giáp Thìn)</p>
+                                    <p style="text-align: center;"><strong>Đón khách: 11h00 | Nhập tiệc: 12h00</strong></p>
                                 </div>
                             </div>
                         </div>
+
+                        <div class="row row-small align-center" id="row-1682816493">
+                            <div id="col-1336385714" class="col medium-8 small-12 large-8">
+                                <div class="col-inner text-center">
+                                    <div class="is-divider divider clearfix" style="max-width: 1000px; height: 1px; background-color: rgb(0, 0, 0);"></div>
+
+                                    <p style="text-align: center;">
+                                        Sự hiện diện của Bạn và Gia đình là<br />
+                                        niềm vinh dự của chúng mình.
+                                    </p>
+                                    <div class="is-divider divider clearfix" style="max-width: 200px; height: 1px; background-color: rgb(0, 0, 0);"></div>
+                                </div>
+
+                                <style>
+                                    #col-1336385714 > .col-inner {
+                                        margin: -30px 0px 0px 0px;
+                                    }
+                                </style>
+                            </div>
+                        </div>
+                        <!-- END Lịch cưới -->
 
                         <div id="gap-170827096" class="gap-element clearfix hide-for-small" style="display: block; height: auto;">
                             <style>
