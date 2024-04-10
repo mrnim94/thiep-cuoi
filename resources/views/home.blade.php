@@ -2051,45 +2051,34 @@
                 </style>
                 <script>
                     (function ($) {
-                    var eMusic = jQuery(".tdk-music");
-                    var eAudio = eMusic.find("audio")[0];
+                        var eMusic = jQuery(".tdk-music");
+                        var eAudio = eMusic.find("audio")[0];
 
-                    // Function to attempt playback and handle success or failure
-                    function tryPlay() {
-                        var promise = eAudio.play();
-                        if (promise !== undefined) {
-                            promise.then(_ => {
-                                // Auto-play started
-                                eMusic.addClass("playing");
-                                console.log("Playback started");
-                            }).catch(error => {
-                                // Auto-play was prevented
-                                console.log("Auto-play was prevented", error);
-                                // Optionally, show a message or button to the user to start playback manually
+                        // Attempt to play the music as soon as the page loads.
+                        $(document).ready(function() {
+                            eAudio.play().catch(function(error) {
+                                console.log("Autoplay with sound was prevented.");
+                                // Handle fallback here, if necessary (e.g., mute or show a play button).
                             });
-                        }
-                    }
+                        });
 
-                    // Listener for play and pause events to toggle playing class and icons
-                    eAudio.addEventListener("play", function () {
-                        eMusic.addClass("playing");
-                    });
-                    eAudio.addEventListener("pause", function () {
-                        eMusic.removeClass("playing");
-                    });
+                        eAudio.addEventListener("play", function () {
+                            eMusic.addClass("playing");
+                            console.log("Playing");
+                        });
+                        eAudio.addEventListener("pause", function () {
+                            eMusic.removeClass("playing");
+                            console.log("Paused");
+                        });
 
-                    // Click event for manual play/pause toggle
-                    eMusic.click(function () {
-                        if (eMusic.hasClass("playing")) {
-                            eAudio.pause();
-                        } else {
-                            tryPlay();
-                        }
-                    });
-
-                    // This could be replaced or augmented with a more explicit user interaction
-                    // For example, a 'Start Experience' button click event that calls tryPlay()
-                })(jQuery);
+                        eMusic.click(function () {
+                            if (eMusic.hasClass("playing")) {
+                                eAudio.pause();
+                            } else {
+                                eAudio.play();
+                            }
+                        });
+                    })(jQuery);
                 </script>
                 <style>
                 .tdk-player-text {
