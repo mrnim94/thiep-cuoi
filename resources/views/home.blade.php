@@ -613,6 +613,119 @@
                                 </div>
                             </div>
                         </div>
+
+                        <div class="row row-collapse align-center hide-for-medium" id="row-1685186844">
+                            <div id="col-1470605827" class="col medium-8 small-12 large-8">
+                                <div class="col-inner text-right">
+                                    <div class="row row-small row-full-width align-equal" id="row-341093655">
+                                        <div id="col-1064562768" class="col medium-3 small-4 large-3">
+                                            <div class="col-inner">
+                                                <div class="row" id="row-2015879689">
+                                                    <div id="col-1797749078" class="col small-12 large-12">
+                                                        <div class="col-inner">
+                                                            <div class="is-border" style="border-color: rgb(0, 0, 0); border-width: 0px 0px 2px 0px;"></div>
+
+                                                            <div id="text-2895900597" class="text">
+                                                                <p>
+                                                                    <span style="font-size: 120%;">Vào Lúc</span><br />
+                                                                    <span style="font-size: 180%;"><strong>18:00</strong></span>
+                                                                </p>
+
+                                                                <style>
+                                                                    #text-2895900597 {
+                                                                        text-align: center;
+                                                                    }
+                                                                </style>
+                                                            </div>
+                                                        </div>
+
+                                                        <style>
+                                                            #col-1797749078 > .col-inner {
+                                                                padding: 0px 0px 1px 0px;
+                                                            }
+                                                        </style>
+                                                    </div>
+
+                                                    <div id="col-1091463648" class="col small-12 large-12">
+                                                        <div class="col-inner">
+                                                            <div class="is-border" style="border-color: rgb(0, 0, 0); border-width: 0px 0px 0px 0px;"></div>
+
+                                                            <div id="text-3338241639" class="text">
+                                                                <h1>
+                                                                    <span style="font-size: 140%;">23.12</span><br />
+                                                                    <span style="font-size: 140%;">2023</span>
+                                                                </h1>
+
+                                                                <style>
+                                                                    #text-3338241639 {
+                                                                        text-align: center;
+                                                                    }
+                                                                </style>
+                                                            </div>
+                                                        </div>
+
+                                                        <style>
+                                                            #col-1091463648 > .col-inner {
+                                                                margin: -27px 0px 0px 0px;
+                                                            }
+                                                        </style>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div id="col-227545788" class="col medium-6 small-8 large-6">
+                                            <div class="col-inner">
+                                                <div class="is-border" style="border-color: rgb(0, 0, 0); border-width: 0px 0px 0px 2px;"></div>
+
+                                                <div id="gap-528698167" class="gap-element clearfix" style="display: block; height: auto;">
+                                                    <style>
+                                                        #gap-528698167 {
+                                                            padding-top: 30px;
+                                                        }
+                                                    </style>
+                                                </div>
+
+                                                <div id="text-961675769" class="text">
+                                                    <p class="uppercase">
+                                                        <strong>
+                                                            <span style="font-size: 140%;">
+                                                                Maison De Charme<br />
+                                                                Restaurant &amp; Events<br />
+                                                                Sảnh Daisy<br />
+                                                            </span>
+                                                        </strong>
+                                                    </p>
+                                                    <p>
+                                                        <span style="font-size: 120%;">
+                                                            793/57/16 Trần Xuân Soạn,<br />
+                                                            Phường Tân Hưng, Quận 7, TP HCM
+                                                        </span>
+                                                    </p>
+                                                    <p>&nbsp;</p>
+
+                                                    <style>
+                                                        #text-961675769 {
+                                                            text-align: center;
+                                                        }
+                                                    </style>
+                                                </div>
+                                            </div>
+
+                                            <style>
+                                                #col-227545788 > .col-inner {
+                                                    padding: 0px 0px 0px 2px;
+                                                    margin: 0px 0px 0px -100px;
+                                                }
+                                            </style>
+                                        </div>
+                                    </div>
+                                    <p style="text-align: center;">(Nhằm Ngày 11 Tháng 11 Năm Quý Mão)</p>
+                                    <p style="text-align: center;"><strong>Đón khách: 18h00 | Nhập tiệc: 19h00</strong></p>
+                                </div>
+                            </div>
+                        </div>
+
                         <div id="gap-170827096" class="gap-element clearfix hide-for-small" style="display: block; height: auto;">
                             <style>
                                 #gap-170827096 {
@@ -2054,14 +2167,6 @@
                         var eMusic = jQuery(".tdk-music");
                         var eAudio = eMusic.find("audio")[0];
 
-                        // Attempt to play the music as soon as the page loads.
-                        $(document).ready(function() {
-                            eAudio.play().catch(function(error) {
-                                console.log("Autoplay with sound was prevented.");
-                                // Handle fallback here, if necessary (e.g., mute or show a play button).
-                            });
-                        });
-
                         eAudio.addEventListener("play", function () {
                             eMusic.addClass("playing");
                             console.log("Playing");
@@ -2072,11 +2177,14 @@
                         });
 
                         eMusic.click(function () {
-                            if (eMusic.hasClass("playing")) {
+                            var e = jQuery(this);
+                            if (e.hasClass("playing")) {
+                                //e.removeClass("playing").find("audio")[0].pause();
                                 eAudio.pause();
-                            } else {
-                                eAudio.play();
+                                return;
                             }
+                            //e.addClass("playing").find("audio")[0].play();
+                            eAudio.play();
                         });
                     })(jQuery);
                 </script>
