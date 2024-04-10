@@ -1943,7 +1943,7 @@
                     </style>
                 </section>
                 <!-- Music -->
-                <div class="tdk-music">
+                <div class="tdk-music playing">
                     <div class="tdk-bg-player"></div>
                     <div class="tdk-player-text"></div>
                     <svg xmlns="http://www.w3.org/2000/svg" class="tdk-icon-play" width="26" height="26" viewBox="0 0 26 26">
