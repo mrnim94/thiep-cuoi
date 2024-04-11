@@ -565,7 +565,7 @@
                             padding-top: 450px;
                         }
                         #banner-1853870393 .bg.bg-loaded {
-                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1383-scaled.jpg);
+                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/20240412_004215_307-scaled.jpg);
                         }
                         #banner-1853870393 .overlay {
                             background-color: rgba(0, 0, 0, 0.39);
