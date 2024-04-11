@@ -4,7 +4,7 @@
 <html lang="vi" class="loading-site no-js">
     <!--<![endif]-->
 
-    <!-- Mirrored from thiepcuoionline.net/nhu-quynh-tung-son/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Mar 2024 04:12:56 GMT -->
+    <!-- Mirrored from https://thiepcuoi.nimtechnology.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Mar 2024 04:12:56 GMT -->
     <!-- Added by HTTrack -->
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <!-- /Added by HTTrack -->
@@ -21,14 +21,14 @@
         <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
         <!-- This site is optimized with the Yoast SEO plugin v21.7 - https://yoast.com/wordpress/plugins/seo/ -->
-        <title>Thiệp Mời Hôn Lễ Như Quỳnh &amp; Tùng Sơn</title>
-        <meta name="description" content="Thân mời bạn đến dự hôn lễ chúng mình vào lúc 10h30 tại Quận Tây Hồ, Hà Nội. Sự hiện diện của bạn là niềm vinh hạnh của chúng tôi." />
+        <title>Thiệp Mời Hôn Lễ Hồng Ngọc &amp; Anh Thắng</title>
+        <meta name="description" content="Thân mời bạn đến dự hôn lễ chúng mình vào lúc 11h00 tại CAPELLA PARKVIEW - 3 Đặng Văn Sâm, Phường 9, Phú Nhuận. Sự hiện diện của bạn là niềm vinh hạnh của chúng tôi." />
         <link rel="canonical" href="index.html" />
         <meta property="og:locale" content="vi_VN" />
         <meta property="og:type" content="article" />
-        <meta property="og:title" content="Thiệp Mời Hôn Lễ Như Quỳnh &amp; Tùng Sơn" />
-        <meta property="og:description" content="Thân mời bạn đến dự hôn lễ chúng mình vào lúc 10h30 tại Quận Tây Hồ, Hà Nội. Sự hiện diện của bạn là niềm vinh hạnh của chúng tôi." />
-        <meta property="og:url" content="https://thiepcuoionline.net/nhu-quynh-tung-son/" />
+        <meta property="og:title" content="Thiệp Mời Hôn Lễ Hồng Ngọc &amp; Anh Thắng" />
+        <meta property="og:description" content="Thân mời bạn đến dự hôn lễ chúng mình vào lúc 11h00 tại CAPELLA PARKVIEW - 3 Đặng Văn Sâm, Phường 9, Phú Nhuận. Sự hiện diện của bạn là niềm vinh hạnh của chúng tôi." />
+        <meta property="og:url" content="https://https://thiepcuoi.nimtechnology.com/" />
         <meta property="og:site_name" content="Thiệp Cưới Online" />
         <meta property="article:modified_time" content="2023-11-03T09:07:32+00:00" />
         <meta property="og:image" content="https://thiepcuoionline.net/wp-content/uploads/2023/04/Untitled-3.jpg" />
@@ -42,23 +42,23 @@
                 "@graph": [
                     {
                         "@type": "WebPage",
-                        "@id": "https://thiepcuoionline.net/nhu-quynh-tung-son/",
-                        "url": "https://thiepcuoionline.net/nhu-quynh-tung-son/",
-                        "name": "Thiệp Mời Hôn Lễ Như Quỳnh & Tùng Sơn",
+                        "@id": "https://https://thiepcuoi.nimtechnology.com/",
+                        "url": "https://https://thiepcuoi.nimtechnology.com/",
+                        "name": "Thiệp Mời Hôn Lễ Hồng Ngọc & Anh Thắng",
                         "isPartOf": { "@id": "https://thiepcuoionline.net/#website" },
                         "datePublished": "2023-03-31T09:14:36+00:00",
                         "dateModified": "2023-11-03T09:07:32+00:00",
-                        "description": "Thân mời bạn đến dự hôn lễ chúng mình vào lúc 10h30 tại Quận Tây Hồ, Hà Nội. Sự hiện diện của bạn là niềm vinh hạnh của chúng tôi.",
-                        "breadcrumb": { "@id": "https://thiepcuoionline.net/nhu-quynh-tung-son/#breadcrumb" },
+                        "description": "Thân mời bạn đến dự hôn lễ chúng mình vào lúc 11h00 tại CAPELLA PARKVIEW - 3 Đặng Văn Sâm, Phường 9, Phú Nhuận. Sự hiện diện của bạn là niềm vinh hạnh của chúng tôi.",
+                        "breadcrumb": { "@id": "https://https://thiepcuoi.nimtechnology.com/#breadcrumb" },
                         "inLanguage": "vi",
-                        "potentialAction": [{ "@type": "ReadAction", "target": ["https://thiepcuoionline.net/nhu-quynh-tung-son/"] }]
+                        "potentialAction": [{ "@type": "ReadAction", "target": ["https://https://thiepcuoi.nimtechnology.com/"] }]
                     },
                     {
                         "@type": "BreadcrumbList",
-                        "@id": "https://thiepcuoionline.net/nhu-quynh-tung-son/#breadcrumb",
+                        "@id": "https://https://thiepcuoi.nimtechnology.com/#breadcrumb",
                         "itemListElement": [
                             { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://thiepcuoionline.net/" },
-                            { "@type": "ListItem", "position": 2, "name": "Như Quỳnh &#038; Tùng Sơn" }
+                            { "@type": "ListItem", "position": 2, "name": "Hồng Ngọc &#038; Anh Thắng" }
                         ]
                     },
                     {
@@ -565,7 +565,7 @@
                             padding-top: 450px;
                         }
                         #banner-1853870393 .bg.bg-loaded {
-                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/download-9-scaled.jpg);
+                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1383-scaled.jpg);
                         }
                         #banner-1853870393 .overlay {
                             background-color: rgba(0, 0, 0, 0.39);
@@ -1975,7 +1975,7 @@
                                             <p role="status" aria-live="polite" aria-atomic="true"></p>
                                             <ul></ul>
                                         </div>
-                                        <form action="https://thiepcuoionline.net/nhu-quynh-tung-son/#wpcf7-f7287-p7267-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+                                        <form action="https://https://thiepcuoi.nimtechnology.com/#wpcf7-f7287-p7267-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
                                             <div style="display: none;">
                                                 <input type="hidden" name="_wpcf7" value="7287" />
                                                 <input type="hidden" name="_wpcf7_version" value="5.7.4" />
@@ -2913,5 +2913,5 @@
         </script>
     </body>
 
-    <!-- Mirrored from thiepcuoionline.net/nhu-quynh-tung-son/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Mar 2024 04:13:01 GMT -->
+    <!-- Mirrored from https://thiepcuoi.nimtechnology.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 28 Mar 2024 04:13:01 GMT -->
 </html>
