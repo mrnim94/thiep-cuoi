@@ -944,6 +944,80 @@
                         }
                     </style>
                 </section>
+                
+                <!-- Bản đồ -->
+                <section class="section dark" id="section_1493798966">
+                    <div class="bg section-bg fill bg-fill bg-loaded"></div>
+
+                    <div class="section-content relative">
+                        <div class="row align-center" id="row-682713807">
+                            <div id="col-1885627242" class="col medium-5 small-12 large-5">
+                                <div class="col-inner text-center">
+                                    <iframe
+                                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15676.087401601055!2d106.6776945!3d10.8096382!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528d8dce05989%3A0x435f7ad4e545d6f6!2sCapella%20Parkview%20Wedding%20%26%20Convention!5e0!3m2!1sen!2s!4v1712860183275!5m2!1sen!2s"
+                                        width="600"
+                                        height="450"
+                                        style="border: 0;"
+                                        allowfullscreen=""
+                                        loading="lazy"
+                                        referrerpolicy="no-referrer-when-downgrade"
+                                    ></iframe>
+                                    <a rel="noopener noreferrer" href="https://maps.app.goo.gl/p6oHA8wCshEnme5v9" target="_blank" class="button white is-outline lowercase" style="border-radius: 99px;">
+                                        <span>Xem bản đồ</span>
+                                        <i class="icon-map-pin-fill"></i>
+                                    </a>
+
+                                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_576328575">
+                                        <div class="img-inner dark">
+                                            <img
+                                                decoding="async"
+                                                width="1020"
+                                                height="1020"
+                                                src="https://thiepcuoionline.net/wp-content/uploads/2023/09/qr-code-1-1024x1024.png"
+                                                data-src="https://thiepcuoionline.net/wp-content/uploads/2023/09/qr-code-1-1024x1024.png"
+                                                class="attachment-large size-large lazy-load-active"
+                                                alt=""
+                                                srcset="
+                                                    https://thiepcuoionline.net/wp-content/uploads/2023/09/qr-code-1-1024x1024.png 1024w,
+                                                    https://thiepcuoionline.net/wp-content/uploads/2023/09/qr-code-1-300x300.png    300w,
+                                                    https://thiepcuoionline.net/wp-content/uploads/2023/09/qr-code-1-150x150.png    150w,
+                                                    https://thiepcuoionline.net/wp-content/uploads/2023/09/qr-code-1-768x768.png    768w,
+                                                    https://thiepcuoionline.net/wp-content/uploads/2023/09/qr-code-1.png           1155w
+                                                "
+                                                data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/09/qr-code-1-1024x1024.png 1024w, https://thiepcuoionline.net/wp-content/uploads/2023/09/qr-code-1-300x300.png 300w, https://thiepcuoionline.net/wp-content/uploads/2023/09/qr-code-1-150x150.png 150w, https://thiepcuoionline.net/wp-content/uploads/2023/09/qr-code-1-768x768.png 768w, https://thiepcuoionline.net/wp-content/uploads/2023/09/qr-code-1.png 1155w"
+                                                sizes="(max-width: 1020px) 100vw, 1020px"
+                                            />
+                                        </div>
+
+                                        <style>
+                                            #image_576328575 {
+                                                width: 22%;
+                                            }
+                                        </style>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <style>
+                        #section_1493798966 {
+                            padding-top: 30px;
+                            padding-bottom: 30px;
+                            background-color: rgb(97, 32, 38);
+                        }
+                        #section_1493798966 .ux-shape-divider--top svg {
+                            height: 150px;
+                            --divider-top-width: 100%;
+                        }
+                        #section_1493798966 .ux-shape-divider--bottom svg {
+                            height: 150px;
+                            --divider-width: 100%;
+                        }
+                    </style>
+                </section>
+                <!-- Kết thúc bản đồ -->
+
 
                 <section class="section dark" id="section_1306584341">
                     <div class="bg section-bg fill bg-fill">
