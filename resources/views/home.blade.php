@@ -844,6 +844,9 @@
                                                                 width: 22%;
                                                                 text-align: center;
                                                             }
+                                                            .img-inner img {
+                                                                vertical-align: middle; /* Căn giữa theo chiều dọc trong dòng, có thể không cần thiết tùy vào cấu trúc của bạn */
+                                                            }
                                                         </style>
                                                     </div>
                                                     <!-- END Bản đồ -->
