@@ -797,7 +797,6 @@
                                                             Phường 9, Phú Nhuận, TP HCM
                                                         </span>
                                                     </p>
-                                                    <p>&nbsp;</p>
 
                                                     <style>
                                                         #text-961675769 {
@@ -811,35 +810,38 @@
                                                         <i class="icon-map-pin-fill"></i>
                                                     </a>
 
-                                                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_576328575">
-                                                        <div class="img-inner dark">
-                                                            <img
-                                                                decoding="async"
-                                                                width="1020"
-                                                                height="1020"
-                                                                src="{{('public/frontend/images/qrcode_googlemap_capella.png')}}"
-                                                                data-src="{{('public/frontend/images/qrcode_googlemap_capella.png')}}"
-                                                                class="attachment-large size-large lazy-load-active"
-                                                                alt=""
-                                                                srcset="
-                                                                    {{('public/frontend/images/qrcode_googlemap_capella.png')}} 1024w,
-                                                                    {{('public/frontend/images/qrcode_googlemap_capella.png')}}  300w,
-                                                                    {{('public/frontend/images/qrcode_googlemap_capella.png')}}  150w,
-                                                                    {{('public/frontend/images/qrcode_googlemap_capella.png')}}  768w,
-                                                                    {{('public/frontend/images/qrcode_googlemap_capella.png')}} 1155w
-                                                                "
-                                                                data-srcset="{{('public/frontend/images/qrcode_googlemap_capella.png')}} 1024w, {{('public/frontend/images/qrcode_googlemap_capella.png')}} 300w, {{('public/frontend/images/qrcode_googlemap_capella.png')}} 150w, {{('public/frontend/images/qrcode_googlemap_capella.png')}} 768w, {{('public/frontend/images/qrcode_googlemap_capella.png')}} 1155w"
-                                                                sizes="(max-width: 1020px) 100vw, 1020px"
-                                                            />
-                                                        </div>
+                                                    <p>
+                                                        <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_576328575">
+                                                            <div class="img-inner dark">
+                                                                <img
+                                                                    decoding="async"
+                                                                    width="1020"
+                                                                    height="1020"
+                                                                    src="{{('public/frontend/images/qrcode_googlemap_capella.png')}}"
+                                                                    data-src="{{('public/frontend/images/qrcode_googlemap_capella.png')}}"
+                                                                    class="attachment-large size-large lazy-load-active"
+                                                                    alt=""
+                                                                    srcset="
+                                                                        {{('public/frontend/images/qrcode_googlemap_capella.png')}} 1024w,
+                                                                        {{('public/frontend/images/qrcode_googlemap_capella.png')}}  300w,
+                                                                        {{('public/frontend/images/qrcode_googlemap_capella.png')}}  150w,
+                                                                        {{('public/frontend/images/qrcode_googlemap_capella.png')}}  768w,
+                                                                        {{('public/frontend/images/qrcode_googlemap_capella.png')}} 1155w
+                                                                    "
+                                                                    data-srcset="{{('public/frontend/images/qrcode_googlemap_capella.png')}} 1024w, {{('public/frontend/images/qrcode_googlemap_capella.png')}} 300w, {{('public/frontend/images/qrcode_googlemap_capella.png')}} 150w, {{('public/frontend/images/qrcode_googlemap_capella.png')}} 768w, {{('public/frontend/images/qrcode_googlemap_capella.png')}} 1155w"
+                                                                    sizes="(max-width: 1020px) 100vw, 1020px"
+                                                                />
+                                                            </div>
 
-                                                        <style>
-                                                            #image_576328575 {
-                                                                width: 22%;
-                                                            }
-                                                        </style>
-                                                    </div>
+                                                            <style>
+                                                                #image_576328575 {
+                                                                    width: 22%;
+                                                                }
+                                                            </style>
+                                                        </div>
+                                                    </p>
                                                     <!-- END Bản đồ -->
+                                                    <p>&nbsp;</p>
 
                                                 </div>
                                             </div>
