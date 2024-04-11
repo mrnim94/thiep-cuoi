@@ -602,6 +602,100 @@
                         </div>
                         
                         <!-- Lịch cưới -->
+                        <!-- Giao diện mobile -->
+                        <div class="row row-small align-center show-for-small" id="row-1680375147">
+                            <div id="col-683262246" class="col medium-7 small-12 large-7">
+                                <div class="col-inner text-center">
+                                    <div class="row row-collapse row-full-width align-equal" id="row-1397026135">
+                                        <div id="col-103258487" class="col medium-3 small-4 large-3">
+                                            <div class="col-inner">
+                                                <div class="row" id="row-1457108350">
+                                                    <div id="col-78921786" class="col small-12 large-12">
+                                                        <div class="col-inner">
+                                                            <div class="is-border" style="border-color: rgb(0, 0, 0); border-width: 0px 0px 2px 0px;"></div>
+
+                                                            <p>
+                                                                <span style="font-size: 120%;">Vào Lúc</span><br />
+                                                                <span style="font-size: 180%;"><strong>11:00</strong></span>
+                                                            </p>
+                                                        </div>
+
+                                                        <style>
+                                                            #col-78921786 > .col-inner {
+                                                                padding: 0px 0px 1px 0px;
+                                                            }
+                                                        </style>
+                                                    </div>
+
+                                                    <div id="col-180634316" class="col small-12 large-12">
+                                                        <div class="col-inner">
+                                                            <div class="is-border" style="border-color: rgb(0, 0, 0); border-width: 0px 0px 0px 0px;"></div>
+
+                                                            <h1>
+                                                                <span style="font-size: 140%;">26.05</span><br />
+                                                                <span style="font-size: 140%;">2024</span>
+                                                            </h1>
+                                                        </div>
+
+                                                        <style>
+                                                            #col-180634316 > .col-inner {
+                                                                margin: -27px 0px 0px 0px;
+                                                            }
+                                                        </style>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div id="col-1226158103" class="col medium-6 small-8 large-6">
+                                            <div class="col-inner">
+                                                <div class="is-border" style="border-color: rgb(0, 0, 0); border-width: 0px 0px 0px 2px;"></div>
+
+                                                <div id="gap-2022142287" class="gap-element clearfix" style="display: block; height: auto;">
+                                                    <style>
+                                                        #gap-2022142287 {
+                                                            padding-top: 0px;
+                                                        }
+                                                        @media (min-width: 550px) {
+                                                            #gap-2022142287 {
+                                                                padding-top: 30px;
+                                                            }
+                                                        }
+                                                    </style>
+                                                </div>
+
+                                                <div id="gap-973311783" class="gap-element clearfix" style="display: block; height: auto;">
+                                                    <style>
+                                                        #gap-973311783 {
+                                                            padding-top: 20px;
+                                                        }
+                                                        @media (min-width: 550px) {
+                                                            #gap-973311783 {
+                                                                padding-top: 30px;
+                                                            }
+                                                        }
+                                                    </style>
+                                                </div>
+
+                                                <p class="uppercase">
+                                                    <strong>
+                                                        <span style="font-size: 140%;">
+                                                            <span style="font-size: 100%;">Capella Parkview</span><br />
+                                                            <span style="font-size: 100%;">Wedding &amp; Convention</span><br />
+                                                            <span style="font-size: 100%;">Sảnh Sarin</span><br />
+                                                        </span>
+                                                    </strong>
+                                                </p>
+                                                <p><span style="font-size: 100%;">3 Đặng Văn Sâm, Phường 9, Phú Nhuận, TP HCM</span></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <p style="text-align: center;">(Nhằm Ngày 19 Tháng 4 Năm Giáp Thìn)</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Giao diện máy tính -->
                         <div class="row row-collapse align-center hide-for-medium" id="row-1685186844">
                             <div id="col-1470605827" class="col medium-8 small-12 large-8">
                                 <div class="col-inner text-right">
@@ -708,7 +802,7 @@
                                             </style>
                                         </div>
                                     </div>
-                                    <p style="text-align: center;">( Nhằm Ngày 19 Tháng 4 Năm Giáp Thìn )</p>
+                                    <p style="text-align: center;">(Nhằm Ngày 19 Tháng 4 Năm Giáp Thìn)</p>
                                     <p style="text-align: center;"><strong>Đón khách: 11h00 | Nhập tiệc: 12h00</strong></p>
                                 </div>
                             </div>
