@@ -600,6 +600,13 @@
                                 }
                             </style>
                         </div>
+                        <h1 style="text-align: center;"><strong>TRÂN TRỌNG KÍNH MỜI</strong></h1>
+                        <p class="alt-font" style="text-align: center;">
+                            <span style="color: #99cc00; font-size: 150%;"><strong>&nbsp;Bạn và Gia đình</strong></span>
+                        </p>
+                        <p style="text-align: center;">
+                            <span style="font-size: 160%;"><strong>Tới tham dự hôn lễ của hai chúng mình</strong></span>
+                        </p>
                         
                         <!-- Lịch cưới -->
                         <!-- Giao diện mobile -->
