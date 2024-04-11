@@ -600,7 +600,7 @@
                                 }
                             </style>
                         </div>
-                        
+
                         <div class="row row-small" id="row-830751940">
                             <div id="col-310300831" class="col small-12 large-12">
                                 <div class="col-inner">
@@ -694,7 +694,7 @@
                                                     <strong>
                                                         <span style="font-size: 140%;">
                                                             <span style="font-size: 100%;">Capella Parkview</span><br />
-                                                            <span style="font-size: 100%;">Wedding &amp; Convention</span><br />
+                                                            <br />
                                                             <span style="font-size: 100%;">Sảnh Sarin</span><br />
                                                         </span>
                                                     </strong>
