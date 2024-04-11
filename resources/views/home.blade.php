@@ -600,13 +600,19 @@
                                 }
                             </style>
                         </div>
-                        <h1 style="text-align: center;"><strong>TRÂN TRỌNG KÍNH MỜI</strong></h1>
-                        <p class="alt-font" style="text-align: center;">
-                            <span style="color: #99cc00; font-size: 150%;"><strong>&nbsp;Bạn và Gia đình</strong></span>
-                        </p>
-                        <p style="text-align: center;">
-                            <span style="font-size: 160%;"><strong>Tới tham dự hôn lễ của hai chúng mình</strong></span>
-                        </p>
+                        
+                        <div class="row row-small" id="row-830751940">
+                            <div id="col-310300831" class="col small-12 large-12">
+                                <div class="col-inner">
+                                    <h5 style="text-align: center;">TRÂN TRỌNG KÍNH MỜI</h5>
+                                    <h6 style="text-align: center;">-----</h6>
+                                    <h1 style="text-align: center;"><span style="font-size: 120%;">Bạn và Gia Đình</span></h1>
+
+                                    <h5 style="text-align: center;">Tới tham dự hôn lễ của hai chúng mình</h5>
+                                    <div class="text-center"><div class="is-divider divider clearfix" style="max-width: 100px; height: 2px; background-color: rgb(0, 0, 0);"></div></div>
+                                </div>
+                            </div>
+                        </div>
                         
                         <!-- Lịch cưới -->
                         <!-- Giao diện mobile -->
@@ -2299,13 +2305,6 @@
                 </style>
                 <!-- End Music -->
 
-                <div id="gap-953157681" class="gap-element clearfix" style="display: block; height: auto;">
-                    <style>
-                        #gap-953157681 {
-                            padding-top: 30px;
-                        }
-                    </style>
-                </div>
 
 
                 <!-- <div class="img has-hover tdk-see-more-template show-for-small x md-x lg-x y md-y lg-y" id="image_1940401612">
