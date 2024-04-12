@@ -841,8 +841,11 @@
 
                                                         <style>
                                                             #image_576328575 {
-                                                                width: 22%;
-                                                                text-align: center;
+                                                                width: 100%;
+                                                                display: flex;
+                                                                flex-direction: row;
+                                                                justify-content: center;
+                                                                align-items: center;
                                                             }
                                                             .img-inner img {
                                                                 vertical-align: middle; /* Căn giữa theo chiều dọc trong dòng, có thể không cần thiết tùy vào cấu trúc của bạn */
