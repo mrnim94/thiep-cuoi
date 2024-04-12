@@ -848,7 +848,7 @@
                                                                 align-items: center;
                                                             }
                                                             .img-inner img {
-                                                                vertical-align: middle; /* Căn giữa theo chiều dọc trong dòng, có thể không cần thiết tùy vào cấu trúc của bạn */
+                                                                width: 50%;
                                                             }
                                                         </style>
                                                     </div>
