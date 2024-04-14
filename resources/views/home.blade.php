@@ -509,7 +509,7 @@
 
                             <div id="text-box-1377743752" class="text-box banner-layer x40 md-x40 lg-x40 y50 md-y50 lg-y50 res-text">
                                 <div class="text-box-content text dark">
-                                    <div class="text-inner text-center">
+                                    <div class="text-inner text-right">
                                         <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_101962642">
                                             <div class="img-inner dark">
                                                 <img
