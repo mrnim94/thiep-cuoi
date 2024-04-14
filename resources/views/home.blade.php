@@ -701,12 +701,12 @@
                                                 </p>
                                                 <p><span style="font-size: 100%;">3 Đặng Văn Sâm, Phường 9, Phú Nhuận, TP HCM</span></p>
 
-                                                <!-- Bản đồ -->
+                                                <!-- MAP Mobile -->
                                                 <a rel="noopener noreferrer" href="https://maps.app.goo.gl/p6oHA8wCshEnme5v9" target="_blank" class="button white is-outline lowercase" style="border-radius: 99px;">
                                                     <span>Xem bản đồ</span>
                                                     <i class="icon-map-pin-fill"></i>
                                                 </a>
-                                                <!-- END Bản đồ -->
+                                                <!-- END MAP Mobile -->
                                             </div>
                                         </div>
                                     </div>
@@ -811,7 +811,7 @@
                                                         }
                                                     </style>
 
-                                                    <!-- Bản đồ -->
+                                                    <!-- MAP -->
                                                     <a rel="noopener noreferrer" href="https://maps.app.goo.gl/p6oHA8wCshEnme5v9" target="_blank" class="button white is-outline lowercase" style="border-radius: 99px;">
                                                         <span>Xem bản đồ</span>
                                                         <i class="icon-map-pin-fill"></i>
@@ -847,12 +847,14 @@
                                                                 justify-content: center;
                                                                 align-items: center;
                                                             }
-                                                            .img-inner img {
+                                                            @media (min-width: 550px) {
+                                                            #image_576328575 {
                                                                 width: 50%;
                                                             }
+                                                        }
                                                         </style>
                                                     </div>
-                                                    <!-- END Bản đồ -->
+                                                    <!-- END MAP -->
                                                     <p>&nbsp;</p>
 
                                                 </div>
