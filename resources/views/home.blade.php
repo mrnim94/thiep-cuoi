@@ -835,13 +835,12 @@
                                                                     {{('public/frontend/images/qrcode_googlemap_capella.png')}} 1155w
                                                                 "
                                                                 data-srcset="{{('public/frontend/images/qrcode_googlemap_capella.png')}} 1024w, {{('public/frontend/images/qrcode_googlemap_capella.png')}} 300w, {{('public/frontend/images/qrcode_googlemap_capella.png')}} 150w, {{('public/frontend/images/qrcode_googlemap_capella.png')}} 768w, {{('public/frontend/images/qrcode_googlemap_capella.png')}} 1155w"
-                                                                sizes="(max-width: 1020px) 100vw, 1020px"
+                                                                sizes="(max-width: 600px) 100vw, 600px"
                                                             />
                                                         </div>
 
                                                         <style>
                                                             #image_576328575 {
-                                                                width: 100%;
                                                                 display: flex;
                                                                 flex-direction: row;
                                                                 justify-content: center;
@@ -849,7 +848,7 @@
                                                             }
                                                             @media (min-width: 550px) {
                                                             #image_576328575 {
-                                                                width: 50%;
+                                                                width: 100%;
                                                             }
                                                         }
                                                         </style>
