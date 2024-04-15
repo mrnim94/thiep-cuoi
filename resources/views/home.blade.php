@@ -699,7 +699,7 @@
                                                         </span>
                                                     </strong>
                                                 </p>
-                                                <p><span style="font-size: 100%;">3 Đặng Văn Sâm, Phường 9, Phú Nhuận, TP HCM</span></p>
+                                                <p><span style="font-size: 100%;">3 Đặng Văn Sâm,<br /> Phường 9, Phú Nhuận</span></p>
 
                                                 <!-- MAP Mobile -->
                                                 <a rel="noopener noreferrer" href="https://maps.app.goo.gl/p6oHA8wCshEnme5v9" target="_blank" class="button white is-outline lowercase" style="border-radius: 99px;">
