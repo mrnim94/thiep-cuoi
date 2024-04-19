@@ -137,13 +137,13 @@
         <script type="text/javascript" src="{{('public/wp-content/plugins/ar-contactus/res/js/contactus.mindbc2.js?ver=2.2.6')}}" id="contactus-js"></script>
         <script type="text/javascript" src="{{('public/wp-content/plugins/ar-contactus/res/js/scriptsdbc2.js?ver=2.2.6')}}" id="contactus.scripts-js"></script>
         <script type="text/javascript" src="{{('public/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1')}}" id="jquery-core-js"></script>
-        <link rel="https://api.w.org/" href="../wp-json-v9/index.html" />
-        <link rel="alternate" type="application/json" href="../wp-json-v9/wp/v2/pages/7267.json" />
+        <link rel="https://api.w.org/" href="{{('public/wp-json-v9/index.html')}}" />
+        <link rel="alternate" type="application/json" href="{{('public/wp-json-v9/wp/v2/pages/7267.json')}}" />
         <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.html?rsd" />
         <meta name="generator" content="WordPress 6.4.1" />
         <link rel="shortlink" href="../indexb037.html?p=7267" />
-        <link rel="alternate" type="application/json+oembed" href="../wp-json-v9/oembed/1.0/embedd6dd.json?url=https%3A%2F%2Fthiepcuoionline.net%2Fnhu-quynh-tung-son%2F" />
-        <link rel="alternate" type="text/xml+oembed" href="../wp-json-v9/oembed/1.0/embed1f04?url=https%3A%2F%2Fthiepcuoionline.net%2Fnhu-quynh-tung-son%2F&amp;format=xml" />
+        <link rel="alternate" type="application/json+oembed" href="{{('public/wp-json-v9/oembed/1.0/embedd6dd.json?url=https%3A%2F%2Fthiepcuoi.nimtechnology.com%2F')}}" />
+        <link rel="alternate" type="text/xml+oembed" href="{{('public/wp-json-v9/oembed/1.0/embed1f04?url=https%3A%2F%2Fthiepcuoi.nimtechnology.com%2F&amp;format=xml')}}" />
         <style>
             .bg {
                 opacity: 0;
@@ -2882,7 +2882,7 @@
         <script type="text/javascript" src="{{('public/wp-content/plugins/contact-form-7/includes/swv/js/index4999.js?ver=5.7.4')}}" id="swv-js"></script>
         <script type="text/javascript" id="contact-form-7-js-extra">
             /* <![CDATA[ */
-            var wpcf7 = { api: { root: "https:\/\/thiepcuoionline.net\/wp-json-v9\/", namespace: "contact-form-7\/v1" } };
+            var wpcf7 = { api: { root: "https:\/\/thiepcuoi.nimtechnology.com\/wp-json-v9\/", namespace: "contact-form-7\/v1" } };
             /* ]]> */
         </script>
         <script type="text/javascript" src="{{('public/wp-content/plugins/contact-form-7/includes/js/index4999.js?ver=5.7.4')}}" id="contact-form-7-js"></script>
