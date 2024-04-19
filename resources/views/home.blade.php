@@ -2039,7 +2039,7 @@
                                             <div class="form-flat">
                                                 <p>
                                                     <label>Tên của bạn</label><br />
-                                                    <span class="wpcf7-form-control-wrap" data-name="your-name">
+                                                    <span class="wpcf7-form-control-wrap" data-name="your_name">
                                                         <input
                                                             size="40"
                                                             class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
@@ -2048,14 +2048,14 @@
                                                             placeholder="Tên của bạn"
                                                             value=""
                                                             type="text"
-                                                            name="your-name"
+                                                            name="your_name"
                                                         />
                                                     </span>
                                                 </p>
                                                 <p>
                                                     <label>Bạn sẽ đến chứ?</label><br />
-                                                    <span class="wpcf7-form-control-wrap" data-name="attendance-status">
-                                                        <select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false" name="attendance-status">
+                                                    <span class="wpcf7-form-control-wrap" data-name="attendance_status">
+                                                        <select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false" name="attendance_status">
                                                             <option value="Mình chắc chắn sẽ đến">Mình chắc chắn sẽ đến</option>
                                                             <option value="Mình có thể sẽ đến">Mình có thể sẽ đến</option>
                                                             <option value="Tiếc quá mình không đến được">Tiếc quá mình không đến được</option>
@@ -2077,8 +2077,8 @@
                                                 </p>
                                                 <p>
                                                     <label>Bạn sẽ đến cùng ai?</label><br />
-                                                    <span class="wpcf7-form-control-wrap" data-name="party-size">
-                                                        <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="party-size">
+                                                    <span class="wpcf7-form-control-wrap" data-name="party_size">
+                                                        <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="party_size">
                                                             <option value="Mình đi 1 mình">Mình đi 1 mình</option>
                                                             <option value="Mình đi 2 người">Mình đi 2 người</option>
                                                             <option value="Mình đi 3 người">Mình đi 3 người</option>
@@ -2089,7 +2089,7 @@
                                                 </p>
                                                 <p>
                                                     <label>Gửi lời chúc tới vợ chồng mình </label><br />
-                                                    <span class="wpcf7-form-control-wrap" data-name="message-to-couple"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Ghi lời chúc của bạn" name="message-to-couple"></textarea></span>
+                                                    <span class="wpcf7-form-control-wrap" data-name="message_to_couple"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Ghi lời chúc của bạn" name="message_to_couple"></textarea></span>
                                                 </p>
                                                 <p><input class="wpcf7-form-control has-spinner wpcf7-submit button" type="submit" value="XÁC NHẬN THAM DỰ" /></p>
                                             </div>
