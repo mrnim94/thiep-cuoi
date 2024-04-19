@@ -2054,8 +2054,8 @@
                                                 </p>
                                                 <p>
                                                     <label>Bạn sẽ đến chứ?</label><br />
-                                                    <span class="wpcf7-form-control-wrap" data-name="menu-coming">
-                                                        <select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false" name="menu-coming">
+                                                    <span class="wpcf7-form-control-wrap" data-name="attendance-status">
+                                                        <select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false" name="attendance-status">
                                                             <option value="Mình chắc chắn sẽ đến">Mình chắc chắn sẽ đến</option>
                                                             <option value="Mình có thể sẽ đến">Mình có thể sẽ đến</option>
                                                             <option value="Tiếc quá mình không đến được">Tiếc quá mình không đến được</option>
@@ -2064,21 +2064,21 @@
                                                 </p>
                                                 <p>
                                                     <label>Bạn là khách mời của ai?</label><br />
-                                                    <span class="wpcf7-form-control-wrap" data-name="radio-holder">
+                                                    <span class="wpcf7-form-control-wrap" data-name="relationship-to-couple">
                                                         <span class="wpcf7-form-control wpcf7-radio">
                                                             <span class="wpcf7-list-item first">
-                                                                <label><input type="radio" name="radio-holder" value="Cô dâu" checked="checked" /><span class="wpcf7-list-item-label">Cô dâu</span></label>
+                                                                <label><input type="radio" name="relationship-to-couple" value="Cô dâu" checked="checked" /><span class="wpcf7-list-item-label">Cô dâu</span></label>
                                                             </span>
                                                             <span class="wpcf7-list-item last">
-                                                                <label><input type="radio" name="radio-holder" value="Chú rể" /><span class="wpcf7-list-item-label">Chú rể</span></label>
+                                                                <label><input type="radio" name="relationship-to-couple" value="Chú rể" /><span class="wpcf7-list-item-label">Chú rể</span></label>
                                                             </span>
                                                         </span>
                                                     </span>
                                                 </p>
                                                 <p>
                                                     <label>Bạn sẽ đến cùng ai?</label><br />
-                                                    <span class="wpcf7-form-control-wrap" data-name="menu-334">
-                                                        <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="menu-334">
+                                                    <span class="wpcf7-form-control-wrap" data-name="party-size">
+                                                        <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="party-size">
                                                             <option value="Mình đi 1 mình">Mình đi 1 mình</option>
                                                             <option value="Mình đi 2 người">Mình đi 2 người</option>
                                                             <option value="Mình đi 3 người">Mình đi 3 người</option>
@@ -2089,7 +2089,7 @@
                                                 </p>
                                                 <p>
                                                     <label>Gửi lời chúc tới vợ chồng mình </label><br />
-                                                    <span class="wpcf7-form-control-wrap" data-name="textarea-107"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Ghi lời chúc của bạn" name="textarea-107"></textarea></span>
+                                                    <span class="wpcf7-form-control-wrap" data-name="message-to-couple"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Ghi lời chúc của bạn" name="message-to-couple"></textarea></span>
                                                 </p>
                                                 <p><input class="wpcf7-form-control has-spinner wpcf7-submit button" type="submit" value="XÁC NHẬN THAM DỰ" /></p>
                                             </div>
