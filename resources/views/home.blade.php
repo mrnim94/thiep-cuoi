@@ -2869,12 +2869,12 @@
                 font-size: var(--wp--preset--font-size--x-large) !important;
             }
         </style>
-        <script type="text/javascript" src="{{('public/wp-content/plugins/contact-form-7/includes/swv/js/index4999.js?ver=5.7.4')}}" id="swv-js"></script>
+        <!-- <script type="text/javascript" src="{{('public/wp-content/plugins/contact-form-7/includes/swv/js/index4999.js?ver=5.7.4')}}" id="swv-js"></script>
         <script type="text/javascript" id="contact-form-7-js-extra">
             /* <![CDATA[ */
             var wpcf7 = { api: { root: "https:\/\/thiepcuoi.nimtechnology.com\/wp-json-v9\/", namespace: "contact-form-7\/v1" } };
             /* ]]> */
-        </script>
+        </script> -->
         <script type="text/javascript" src="{{('public/wp-content/plugins/contact-form-7/includes/js/index4999.js?ver=5.7.4')}}" id="contact-form-7-js"></script>
         <script type="text/javascript" src="{{('public/wp-includes/js/dist/vendor/wp-polyfill-inert.min0226.js?ver=3.1.2')}}" id="wp-polyfill-inert-js"></script>
         <script type="text/javascript" src="{{('public/wp-includes/js/dist/vendor/regenerator-runtime.min6c85.js?ver=0.14.0')}}" id="regenerator-runtime-js"></script>
