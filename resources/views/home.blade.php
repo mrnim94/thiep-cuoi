@@ -2027,7 +2027,8 @@
                                             <p role="status" aria-live="polite" aria-atomic="true"></p>
                                             <ul></ul>
                                         </div>
-                                        <form action="https://https://thiepcuoi.nimtechnology.com/#wpcf7-f7287-p7267-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+                                        <form action="{{URL::to('/save-guest-confirmations')}}" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+                                            {{ csrf_field() }}
                                             <div style="display: none;">
                                                 <input type="hidden" name="_wpcf7" value="7287" />
                                                 <input type="hidden" name="_wpcf7_version" value="5.7.4" />
@@ -2064,13 +2065,13 @@
                                                 </p>
                                                 <p>
                                                     <label>Bạn là khách mời của ai?</label><br />
-                                                    <span class="wpcf7-form-control-wrap" data-name="relationship-to-couple">
+                                                    <span class="wpcf7-form-control-wrap" data-name="relationship_to_couple">
                                                         <span class="wpcf7-form-control wpcf7-radio">
                                                             <span class="wpcf7-list-item first">
-                                                                <label><input type="radio" name="relationship-to-couple" value="Cô dâu" checked="checked" /><span class="wpcf7-list-item-label">Cô dâu</span></label>
+                                                                <label><input type="radio" name="relationship_to_couple" value="Cô dâu" checked="checked" /><span class="wpcf7-list-item-label">Cô dâu</span></label>
                                                             </span>
                                                             <span class="wpcf7-list-item last">
-                                                                <label><input type="radio" name="relationship-to-couple" value="Chú rể" /><span class="wpcf7-list-item-label">Chú rể</span></label>
+                                                                <label><input type="radio" name="relationship_to_couple" value="Chú rể" /><span class="wpcf7-list-item-label">Chú rể</span></label>
                                                             </span>
                                                         </span>
                                                     </span>
