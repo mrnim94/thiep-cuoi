@@ -2058,10 +2058,10 @@
                                                     <span class="wpcf7-form-control-wrap" data-name="relationship_to_couple">
                                                         <span class="wpcf7-form-control wpcf7-radio">
                                                             <span class="wpcf7-list-item first">
-                                                                <label><input type="radio" name="relationship_to_couple" value="Cô dâu" checked="checked" /><span class="wpcf7-list-item-label">Cô dâu</span></label>
+                                                                <label><input type="radio" name="relationship_to_couple" value="co_dau" checked="checked" /><span class="wpcf7-list-item-label">Cô dâu</span></label>
                                                             </span>
                                                             <span class="wpcf7-list-item last">
-                                                                <label><input type="radio" name="relationship_to_couple" value="Chú rể" /><span class="wpcf7-list-item-label">Chú rể</span></label>
+                                                                <label><input type="radio" name="relationship_to_couple" value="chu_re" /><span class="wpcf7-list-item-label">Chú rể</span></label>
                                                             </span>
                                                         </span>
                                                     </span>

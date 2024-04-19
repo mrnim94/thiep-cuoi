@@ -15,7 +15,7 @@ return new class extends Migration
             $table->Increments('confirmation_id');
             $table->string('your_name');
             $table->string('attendance_status');
-            $table->integer('relationship_to_couple');
+            $table->string('relationship_to_couple');
             $table->string('party_size');
             $table->text('message_to_couple');
             $table->timestamps();
