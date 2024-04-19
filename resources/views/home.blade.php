@@ -2029,23 +2029,13 @@
                                         </div>
                                         <form action="{{URL::to('/save-guest-confirmations')}}" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
                                             {{ csrf_field() }}
-                                            <div style="display: none;">
-                                                <input type="hidden" name="_wpcf7" value="7287" />
-                                                <input type="hidden" name="_wpcf7_version" value="5.7.4" />
-                                                <input type="hidden" name="_wpcf7_locale" value="vi" />
-                                                <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f7287-p7267-o1" />
-                                                <input type="hidden" name="_wpcf7_container_post" value="7267" />
-                                                <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
-                                            </div>
                                             <div class="form-flat">
                                                 <p>
                                                     <label>Tên của bạn</label><br />
                                                     <span class="wpcf7-form-control-wrap" data-name="your_name">
                                                         <input
                                                             size="40"
-                                                            class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
-                                                            aria-required="true"
-                                                            aria-invalid="false"
+                                                            class="wpcf7-form-control wpcf7-text"
                                                             placeholder="Tên của bạn"
                                                             value=""
                                                             type="text"
@@ -2056,7 +2046,7 @@
                                                 <p>
                                                     <label>Bạn sẽ đến chứ?</label><br />
                                                     <span class="wpcf7-form-control-wrap" data-name="attendance_status">
-                                                        <select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false" name="attendance_status">
+                                                        <select class="wpcf7-form-control wpcf7-select" name="attendance_status">
                                                             <option value="Mình chắc chắn sẽ đến">Mình chắc chắn sẽ đến</option>
                                                             <option value="Mình có thể sẽ đến">Mình có thể sẽ đến</option>
                                                             <option value="Tiếc quá mình không đến được">Tiếc quá mình không đến được</option>
@@ -2079,7 +2069,7 @@
                                                 <p>
                                                     <label>Bạn sẽ đến cùng ai?</label><br />
                                                     <span class="wpcf7-form-control-wrap" data-name="party_size">
-                                                        <select class="wpcf7-form-control wpcf7-select" aria-invalid="false" name="party_size">
+                                                        <select class="wpcf7-form-control wpcf7-select" name="party_size">
                                                             <option value="Mình đi 1 mình">Mình đi 1 mình</option>
                                                             <option value="Mình đi 2 người">Mình đi 2 người</option>
                                                             <option value="Mình đi 3 người">Mình đi 3 người</option>
@@ -2090,7 +2080,7 @@
                                                 </p>
                                                 <p>
                                                     <label>Gửi lời chúc tới vợ chồng mình </label><br />
-                                                    <span class="wpcf7-form-control-wrap" data-name="message_to_couple"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Ghi lời chúc của bạn" name="message_to_couple"></textarea></span>
+                                                    <span class="wpcf7-form-control-wrap" data-name="message_to_couple"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" placeholder="Ghi lời chúc của bạn" name="message_to_couple"></textarea></span>
                                                 </p>
                                                 <p><input class="wpcf7-form-control has-spinner wpcf7-submit button" type="submit" value="XÁC NHẬN THAM DỰ" /></p>
                                             </div>
