@@ -3,6 +3,11 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use DB;
+use Session;
+use Illuminate\Support\Facades\Redirect;
+use App\Http\Requests;
+session_start();
 
 class HomeController extends Controller
 {
@@ -17,9 +22,13 @@ class HomeController extends Controller
         $data['relationship_to_couple'] = $request->relationship_to_couple;
         $data['party_size'] = $request->party_size;
         $data['message_to_couple'] = $request->message_to_couple;
-        echo '<pre>';
-        print_r($data);
-        echo '</pre>';
+        // echo '<pre>';
+        // print_r($data);
+        // echo '</pre>';
+
+        DB::table('tbl_guest_confirmations')->insert($data);
+        Session::put('message', 'Xác Nhận Tham Dự đã được gửi thành công!')
+        return Redirect::('home');
 
     }
 }

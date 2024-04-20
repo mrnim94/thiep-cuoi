@@ -2084,7 +2084,16 @@
                                                 </p>
                                                 <p><input class="wpcf7-form-control has-spinner wpcf7-submit button" type="submit" value="XÁC NHẬN THAM DỰ" /></p>
                                             </div>
-                                            <div class="wpcf7-response-output" aria-hidden="true"></div>
+                                            
+                                            <?php
+                                                $message = Session::get('message');
+                                                if($message){
+                                                    // echo '<span class="text-alert">'.$message.'</span>';
+                                                    echo '<div class="wpcf7-response-output">'.$message.'</div>'
+                                                    Session::put('message',null);
+                                                }
+                                                ?>
+                                            
                                         </form>
                                     </div>
                                 </div>
