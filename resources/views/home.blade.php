@@ -1936,7 +1936,7 @@
                                                 background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1339-epik-scaled.jpg);
                                             }
                                             #banner-1486844012 .bg {
-                                                background-position: 4% 15%;
+                                                background-position: 4% 90%;
                                             }
                                             #banner-1486844012 .ux-shape-divider--top svg {
                                                 height: 150px;
@@ -1948,7 +1948,7 @@
                                             }
                                             @media (min-width: 550px) {
                                                 #banner-1486844012 {
-                                                    padding-top: 65%;
+                                                    padding-top: 99%;
                                                 }
                                             }
                                         </style>
