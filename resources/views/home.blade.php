@@ -1358,7 +1358,7 @@
                                                 background-color: rgba(0, 0, 0, 0);
                                             }
                                             #banner-147409234 .bg.bg-loaded {
-                                                background-image: url(public/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-10.jpg);
+                                                background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1494-epik-scaled.jpg);
                                             }
                                             #banner-147409234 .bg {
                                                 background-position: 36% 15%;
@@ -1494,7 +1494,7 @@
                                                 background-color: rgba(0, 0, 0, 0);
                                             }
                                             #banner-1663837998 .bg.bg-loaded {
-                                                background-image: url(public/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-47.jpg);
+                                                background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1100.jpg);
                                             }
                                             #banner-1663837998 .bg {
                                                 background-position: 55% 12%;
