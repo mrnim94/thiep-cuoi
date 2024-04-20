@@ -125,7 +125,12 @@
             type="text/css"
             media="all"
         />
-        <script type="text/javascript" id="contactus-js-extra">
+
+        <!-- SweetAlert2 CSS -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@10">
+        <!-- SweetAlert2 JS -->
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+        <!-- <script type="text/javascript" id="contactus-js-extra">
             /* <![CDATA[ */
             var arCUVars = {
                 url: "https:\/\/thiepcuoionline.net\/wp-admin\/admin-ajax.php",
@@ -133,7 +138,7 @@
                 _wpnonce: '<input type="hidden" id="_wpnonce" name="_wpnonce" value="32976f6422" \/><input type="hidden" name="_wp_http_referer" value="\/nhu-quynh-tung-son\/" \/>',
             };
             /* ]]> */
-        </script>
+        </script> -->
         <script type="text/javascript" src="{{('public/wp-content/plugins/ar-contactus/res/js/contactus.mindbc2.js?ver=2.2.6')}}" id="contactus-js"></script>
         <script type="text/javascript" src="{{('public/wp-content/plugins/ar-contactus/res/js/scriptsdbc2.js?ver=2.2.6')}}" id="contactus.scripts-js"></script>
         <script type="text/javascript" src="{{('public/wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1')}}" id="jquery-core-js"></script>
@@ -2027,7 +2032,7 @@
                                             <p role="status" aria-live="polite" aria-atomic="true"></p>
                                             <ul></ul>
                                         </div>
-                                        <form action="{{URL::to('/save-guest-confirmations')}}" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+                                        <form id="guest-confirmations-form" action="{{URL::to('/save-guest-confirmations')}}" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
                                             {{ csrf_field() }}
                                             <div class="form-flat">
                                                 <p>
@@ -2084,17 +2089,47 @@
                                                 </p>
                                                 <p><input class="wpcf7-form-control has-spinner wpcf7-submit button" type="submit" value="XÁC NHẬN THAM DỰ" /></p>
                                             </div>
-                                            
-                                            <?php
-                                                $message = Session::get('message');
-                                                if($message){
-                                                    // echo '<span class="text-alert">'.$message.'</span>';
-                                                    echo '<div class="wpcf7-response-output">'.$message.'</div>';
-                                                    Session::put('message',null);
-                                                }
-                                            ?>
-                                            
                                         </form>
+                                        <script>
+                                            // Function to handle form submission
+                                            function submitForm() {
+                                                // Serialize form data
+                                                var formData = $('#guest-confirmations-form').serialize();
+
+                                                // Submit form using AJAX
+                                                $.ajax({
+                                                    type: 'POST',
+                                                    url: $('#guest-confirmations-form').attr('action'),
+                                                    data: formData,
+                                                    success: function(response) {
+                                                        // Show success message using SweetAlert2
+                                                        Swal.fire({
+                                                            icon: 'success',
+                                                            title: 'Success',
+                                                            text: 'Your data has been submitted successfully!',
+                                                            showConfirmButton: false,
+                                                            timer: 2000 // Close the popup after 2 seconds
+                                                        });
+                                                    },
+                                                    error: function(xhr, status, error) {
+                                                        // Show error message if any
+                                                        Swal.fire({
+                                                            icon: 'error',
+                                                            title: 'Oops...',
+                                                            text: 'Something went wrong!',
+                                                        });
+                                                    }
+                                                });
+
+                                                // Prevent default form submission
+                                                return false;
+                                            }
+
+                                            // Attach form submission handler
+                                            $('#myForm').submit(function() {
+                                                submitForm();
+                                            });
+                                        </script>
                                     </div>
                                 </div>
                             </div>
