@@ -2089,7 +2089,7 @@
                                                 $message = Session::get('message');
                                                 if($message){
                                                     // echo '<span class="text-alert">'.$message.'</span>';
-                                                    echo '<div class="wpcf7-response-output">'.$message.'</div>'
+                                                    echo '<div class="wpcf7-response-output">'.$message.'</div>';
                                                     Session::put('message',null);
                                                 }
                                             ?>
