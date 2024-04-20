@@ -1042,7 +1042,7 @@
                                                             background-color: rgba(0, 0, 0, 0);
                                                         }
                                                         #banner-648725967 .bg.bg-loaded {
-                                                            background-image: url(public/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-23.jpg);
+                                                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1117-1-scaled.jpg);
                                                         }
                                                         #banner-648725967 .bg {
                                                             background-position: 51% 14%;
@@ -1105,7 +1105,7 @@
                                                             background-color: rgba(0, 0, 0, 0);
                                                         }
                                                         #banner-1328206251 .bg.bg-loaded {
-                                                            background-image: url(public/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-21.jpg);
+                                                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1175-scaled.jpg);
                                                         }
                                                         #banner-1328206251 .bg {
                                                             background-position: 65% 40%;
@@ -1162,7 +1162,7 @@
                                                             background-color: rgba(0, 0, 0, 0);
                                                         }
                                                         #banner-427442050 .bg.bg-loaded {
-                                                            background-image: url(public/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-7.jpg);
+                                                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1162.jpg);
                                                         }
                                                         #banner-427442050 .bg {
                                                             background-position: 51% 16%;
@@ -2097,7 +2097,7 @@
                                                     icon: 'success',
                                                     title: 'Thông báo!',
                                                     text: '{{ Session::get("message") }}',
-                                                    timer: 3000,
+                                                    timer: 5000,
                                                     timerProgressBar: true,
                                                     showConfirmButton: false
                                                 });
