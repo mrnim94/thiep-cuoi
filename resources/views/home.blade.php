@@ -576,7 +576,7 @@
                             background-color: rgba(0, 0, 0, 0.39);
                         }
                         #banner-1853870393 .bg {
-                            background-position: 65% 81%;
+                            background-position: 65% 28%;
                         }
                         #banner-1853870393 .ux-shape-divider--top svg {
                             height: 150px;
@@ -1817,7 +1817,7 @@
                                                             background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1655.jpg);
                                                         }
                                                         #banner-1346173674 .bg {
-                                                            background-position: 20% 23%;
+                                                            background-position: 20% 85%;
                                                         }
                                                         #banner-1346173674 .ux-shape-divider--top svg {
                                                             height: 150px;
@@ -1933,7 +1933,7 @@
                                                 background-color: rgba(0, 0, 0, 0);
                                             }
                                             #banner-1486844012 .bg.bg-loaded {
-                                                background-image: url(public/wp-content/uploads/2023/03/chup-hinh-cuoi-phim-truong-vu-garden-35-2048x1365-1.jpg);
+                                                background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1339-epik-scaled.jpg);
                                             }
                                             #banner-1486844012 .bg {
                                                 background-position: 4% 15%;
