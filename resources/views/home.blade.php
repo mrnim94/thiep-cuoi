@@ -1634,7 +1634,7 @@
                                                             background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1595-scaled.jpg);
                                                         }
                                                         #banner-981742564 .bg {
-                                                            background-position: 56% 100%;
+                                                            /* background-position: 56% 100%; */
                                                         }
                                                         #banner-981742564 .ux-shape-divider--top svg {
                                                             height: 150px;
@@ -1694,7 +1694,7 @@
                                                             background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1886-epik-scaled.jpg);
                                                         }
                                                         #banner-763184550 .bg {
-                                                            background-position: 59% 10%;
+                                                            background-position: 59% 102%;
                                                         }
                                                         #banner-763184550 .ux-shape-divider--top svg {
                                                             height: 150px;
@@ -1771,7 +1771,7 @@
                                                         }
                                                         @media (min-width: 850px) {
                                                             #banner-1244362528 {
-                                                                padding-top: 89%;
+                                                                padding-top: 95%;
                                                             }
                                                         }
                                                     </style>
@@ -1814,7 +1814,7 @@
                                                             background-color: rgba(0, 0, 0, 0);
                                                         }
                                                         #banner-1346173674 .bg.bg-loaded {
-                                                            background-image: url(public/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-54.jpg);
+                                                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1655.jpg);
                                                         }
                                                         #banner-1346173674 .bg {
                                                             background-position: 20% 23%;
@@ -1877,7 +1877,7 @@
                                                             background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1383-2-scaled.jpg);
                                                         }
                                                         #banner-401533423 .bg {
-                                                            background-position: 40% 0%;
+                                                            background-position: 40% 50%;
                                                         }
                                                         #banner-401533423 .ux-shape-divider--top svg {
                                                             height: 150px;
