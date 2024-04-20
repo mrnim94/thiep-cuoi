@@ -1494,7 +1494,7 @@
                                                 background-color: rgba(0, 0, 0, 0);
                                             }
                                             #banner-1663837998 .bg.bg-loaded {
-                                                background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1100.jpg);
+                                                background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1100-scaled.jpg);
                                             }
                                             #banner-1663837998 .bg {
                                                 background-position: 55% 12%;
@@ -1814,7 +1814,7 @@
                                                             background-color: rgba(0, 0, 0, 0);
                                                         }
                                                         #banner-1346173674 .bg.bg-loaded {
-                                                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1655.jpg);
+                                                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1655-scaled.jpg);
                                                         }
                                                         #banner-1346173674 .bg {
                                                             background-position: 20% 85%;
