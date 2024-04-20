@@ -27,7 +27,7 @@ class HomeController extends Controller
         // echo '</pre>';
 
         DB::table('tbl_guest_confirmations')->insert($data);
-        Session::put('message', 'Xác Nhận Tham Dự đã được gửi thành công!')
+        Session::put('message', 'Xác Nhận Tham Dự đã được gửi thành công!');
         return Redirect::('home');
 
     }
