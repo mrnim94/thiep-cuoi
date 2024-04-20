@@ -2091,44 +2091,20 @@
                                             </div>
                                         </form>
                                         <script>
-                                            // Function to handle form submission
-                                            function submitForm() {
-                                                // Serialize form data
-                                                var formData = $('#guest-confirmations-form').serialize();
-
-                                                // Submit form using AJAX
-                                                $.ajax({
-                                                    type: 'POST',
-                                                    url: $('#guest-confirmations-form').attr('action'),
-                                                    data: formData,
-                                                    success: function(response) {
-                                                        // Show success message using SweetAlert2
-                                                        Swal.fire({
-                                                            icon: 'success',
-                                                            title: 'Success',
-                                                            text: 'Your data has been submitted successfully!',
-                                                            showConfirmButton: false,
-                                                            timer: 2000 // Close the popup after 2 seconds
-                                                        });
-                                                    },
-                                                    error: function(xhr, status, error) {
-                                                        // Show error message if any
-                                                        Swal.fire({
-                                                            icon: 'error',
-                                                            title: 'Oops...',
-                                                            text: 'Something went wrong!',
-                                                        });
-                                                    }
+                                        document.addEventListener('DOMContentLoaded', function () {
+                                            @if(Session::has('message'))
+                                                Swal.fire({
+                                                    icon: 'success',
+                                                    title: 'Thông báo!',
+                                                    text: '{{ Session::get("message") }}',
+                                                    timer: 3000,
+                                                    timerProgressBar: true,
+                                                    showConfirmButton: false
                                                 });
-
-                                                // Prevent default form submission
-                                                return false;
-                                            }
-
-                                            // Attach form submission handler
-                                            $('#myForm').submit(function() {
-                                                submitForm();
-                                            });
+                                            @endif
+                                            // Clear the session message after it's displayed
+                                            {{ Session::forget('message') }}
+                                        });
                                         </script>
                                     </div>
                                 </div>
