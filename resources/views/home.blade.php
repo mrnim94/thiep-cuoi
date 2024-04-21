@@ -920,11 +920,11 @@
                                                 width="1536"
                                                 height="512"
                                                 src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201536%20512%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                data-src="https://thiepcuoionline.net/wp-content/uploads/2023/03/backfbt-1-1536x512-1.png"
+                                                data-src="{{('public/frontend/images/timeline-ngang.png')}}"
                                                 class="lazy-load attachment-original size-original"
                                                 alt=""
                                                 srcset=""
-                                                data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/03/backfbt-1-1536x512-1.png 1536w, https://thiepcuoionline.net/wp-content/uploads/2023/03/backfbt-1-1536x512-1-300x100.png 300w, https://thiepcuoionline.net/wp-content/uploads/2023/03/backfbt-1-1536x512-1-1024x341.png 1024w, https://thiepcuoionline.net/wp-content/uploads/2023/03/backfbt-1-1536x512-1-768x256.png 768w"
+                                                data-srcset="{{('public/frontend/images/timeline-ngang.png')}} 1536w, {{('public/frontend/images/timeline-ngang.png')}} 300w, {{('public/frontend/images/timeline-ngang.png')}} 1024w, {{('public/frontend/images/timeline-ngang.png')}} 768w"
                                                 sizes="(max-width: 1536px) 100vw, 1536px"
                                             />
                                         </div>
