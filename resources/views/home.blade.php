@@ -30,8 +30,8 @@
         <meta property="og:description" content="Thân mời bạn đến dự hôn lễ chúng mình vào lúc 11h00 tại CAPELLA PARKVIEW - 3 Đặng Văn Sâm, Phường 9, Phú Nhuận. Sự hiện diện của bạn là niềm vinh hạnh của chúng tôi." />
         <meta property="og:url" content="https://https://thiepcuoi.nimtechnology.com/" />
         <meta property="og:site_name" content="Thiệp Cưới Online" />
-        <meta property="article:modified_time" content="2023-11-03T09:07:32+00:00" />
-        <meta property="og:image" content="https://nimtechnology.com/wp-content/uploads/2024/04/wed0K9A1117.png" />
+        <meta property="article:modified_time" content="2024-04-22T12:18:00+07:00" />
+        <meta property="og:image" content="https://nimtechnology.com/wp-content/uploads/2024/04/2024-04-22_00-07.png" />
         <meta property="og:image:width" content="1648" />
         <meta property="og:image:height" content="786" />
         <meta property="og:image:type" content="image/jpeg" />
@@ -45,7 +45,7 @@
                         "@id": "https://https://thiepcuoi.nimtechnology.com/",
                         "url": "https://https://thiepcuoi.nimtechnology.com/",
                         "name": "Thiệp Mời Hôn Lễ Hồng Ngọc & Anh Thắng",
-                        "isPartOf": { "@id": "https://thiepcuoionline.net/#website" },
+                        "isPartOf": { "@id": "https://thiepcuoi.nimtechnology.com/#website" },
                         "datePublished": "2023-03-31T09:14:36+00:00",
                         "dateModified": "2023-11-03T09:07:32+00:00",
                         "description": "Thân mời bạn đến dự hôn lễ chúng mình vào lúc 11h00 tại CAPELLA PARKVIEW - 3 Đặng Văn Sâm, Phường 9, Phú Nhuận. Sự hiện diện của bạn là niềm vinh hạnh của chúng tôi.",
@@ -57,17 +57,17 @@
                         "@type": "BreadcrumbList",
                         "@id": "https://https://thiepcuoi.nimtechnology.com/#breadcrumb",
                         "itemListElement": [
-                            { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://thiepcuoionline.net/" },
+                            { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://thiepcuoi.nimtechnology.com/" },
                             { "@type": "ListItem", "position": 2, "name": "Hồng Ngọc &#038; Anh Thắng" }
                         ]
                     },
                     {
                         "@type": "WebSite",
-                        "@id": "https://thiepcuoionline.net/#website",
-                        "url": "https://thiepcuoionline.net/",
+                        "@id": "https://thiepcuoi.nimtechnology.com/#website",
+                        "url": "https://thiepcuoi.nimtechnology.com/",
                         "name": "Thiệp Cưới Online",
                         "description": "Dịch vụ thiết kế Thiệp Cưới Online trọn gói",
-                        "potentialAction": [{ "@type": "SearchAction", "target": { "@type": "EntryPoint", "urlTemplate": "https://thiepcuoionline.net/?s={search_term_string}" }, "query-input": "required name=search_term_string" }],
+                        "potentialAction": [{ "@type": "SearchAction", "target": { "@type": "EntryPoint", "urlTemplate": "https://thiepcuoi.nimtechnology.com/?s={search_term_string}" }, "query-input": "required name=search_term_string" }],
                         "inLanguage": "vi"
                     }
                 ]
@@ -133,7 +133,7 @@
         <!-- <script type="text/javascript" id="contactus-js-extra">
             /* <![CDATA[ */
             var arCUVars = {
-                url: "https:\/\/thiepcuoionline.net\/wp-admin\/admin-ajax.php",
+                url: "https:\/\/thiepcuoi.nimtechnology.com\/wp-admin\/admin-ajax.php",
                 version: "2.2.6",
                 _wpnonce: '<input type="hidden" id="_wpnonce" name="_wpnonce" value="32976f6422" \/><input type="hidden" name="_wp_http_referer" value="\/nhu-quynh-tung-son\/" \/>',
             };
@@ -160,7 +160,7 @@
             }
         </style>
         <!--[if IE]>
-            <link rel="stylesheet" type="text/css" href="https://thiepcuoionline.net/wp-content/themes/flatsome/assets/css/ie-fallback.css" />
+            <link rel="stylesheet" type="text/css" href="https://thiepcuoi.nimtechnology.com/wp-content/themes/flatsome/assets/css/ie-fallback.css" />
             <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.1/html5shiv.js"></script>
             <script>
                 var head = document.getElementsByTagName("head")[0],
@@ -172,12 +172,12 @@
                     head.removeChild(style);
                 }, 0);
             </script>
-            <script src="https://thiepcuoionline.net/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script>
+            <script src="https://thiepcuoi.nimtechnology.com/wp-content/themes/flatsome/assets/libs/ie-flexibility.js"></script>
         <![endif]-->
-        <link rel="icon" href="https://thiepcuoionline.net/wp-content/uploads/2023/02/cropped-wedding-ring-32x32.png" sizes="32x32" />
-        <link rel="icon" href="https://thiepcuoionline.net/wp-content/uploads/2023/02/cropped-wedding-ring-192x192.png" sizes="192x192" />
-        <link rel="apple-touch-icon" href="../wp-content/uploads/2023/02/cropped-wedding-ring-180x180.png" />
-        <meta name="msapplication-TileImage" content="https://thiepcuoionline.net/wp-content/uploads/2023/02/cropped-wedding-ring-270x270.png" />
+        <link rel="icon" href="{{('public/wp-content/uploads/2023/02/cropped-wedding-ring-32x32.png')}}" sizes="32x32" />
+        <link rel="icon" href="{{('public/wp-content/uploads/2023/02/cropped-wedding-ring-192x192.png')}}" sizes="192x192" />
+        <link rel="apple-touch-icon" href="{{('public/wp-content/uploads/2023/02/cropped-wedding-ring-180x180.png')}}" />
+        <meta name="msapplication-TileImage" content="{{('public/wp-content/uploads/2023/02/cropped-wedding-ring-270x270.png')}}" />
         <style id="custom-css" type="text/css">
             :root {
                 --primary-color: #f30000;
@@ -958,11 +958,11 @@
                                                     width="800"
                                                     height="1400"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20800%201400%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/09/timeline-doc.png"
+                                                    data-src="{{('public/frontend/images/timeline-doc.png')}}"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     srcset=""
-                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/09/timeline-doc.png 800w, https://thiepcuoionline.net/wp-content/uploads/2023/09/timeline-doc-171x300.png 171w, https://thiepcuoionline.net/wp-content/uploads/2023/09/timeline-doc-585x1024.png 585w, https://thiepcuoionline.net/wp-content/uploads/2023/09/timeline-doc-768x1344.png 768w"
+                                                    data-srcset="{{('public/frontend/images/timeline-doc.png')}} 800w, {{('public/frontend/images/timeline-doc.png')}} 171w, {{('public/frontend/images/timeline-doc.png')}} 585w, {{('public/frontend/images/timeline-doc.png')}} 768w"
                                                     sizes="(max-width: 800px) 100vw, 800px"
                                                 />
                                             </div>
@@ -1235,8 +1235,7 @@
                                     </div>
 
                                     <p>
-                                        Chuyện tình của chúng mình bắt đầu rất đơn giản-qua &#8220;Facebook&#8221;. Hai người xa lạ không ai biết ai. Từ câu thả thính với hàng loạt cô gái &#8220;Em ơi đi trốn với anh&#8221; thì mình là
-                                        người may mắn đó!!!<br />
+                                        Chuyện tình của chúng mình bắt đầu rất đơn giản-qua &#8220;Facebook&#8221;. Hai người xa lạ không ai biết ai. Từ câu thả thính trong 1 bức ảnh than thở độc thân của Ngọc &#8220;Có Thắng nè!!!&#8221; và Từ đó mình bắt đầu theo đuổi cô gái dễ thương này!!!<br />
                                         Khoảng thời gian yêu nhau của bọn mình khá lâu(
                                         <a
                                             title="‌"
@@ -1244,7 +1243,7 @@
                                             target="_blank"
                                             rel="nofollow noopener noreferrer ugc"
                                         >
-                                            7 năm
+                                            5 năm
                                         </a>
                                         ). Có những cãi vã, những giận hờn, những lần chia tay đẫm nước mắt. Nhưng cuối cùng vẫn ở bên nhau và kết thúc bằng một &#8220;happy ending&#8221; tuyệt vời này &#8230;&#8230;
                                     </p>
@@ -1333,8 +1332,8 @@
                                     </div>
 
                                     <p>
-                                        Tôi hiện đang làm &#8220;Dây đồng hồ hand made&#8221; cần sự tỉ mỉ thì tính tôi cũng vậy, khá kỹ tính, luôn chuẩn chỉnh . Nhưng vợ tôi lại là một người khác hoàn toàn tôi &#8211; vô tư, nhí nhố, hay
-                                        giận hờn vu vơ. Dù hai chúng tôi không có điểm chung nào cả, nhưng trái tính thì lại hợp nhau phết !!!
+                                        Tôi hiện đang làm &#8220;một anh IT&#8221; cần sự tỉ mỉ thì tính tôi cũng vậy, khá kỹ tính, luôn chuẩn chỉnh trong công việc .Nhưng tôi lại là một người khác hoàn toàn khác khi ở cạnh cô ấy &#8211; vô tư, nhí nhố, hay
+                                        giận hờn vu vơ. Dù hai chúng tôi không có điểm chung nào cả (cô ấy là Nữ và tôi là Nam), nhưng trái tính thì lại hợp nhau phết !!!
                                     </p>
                                 </div>
                             </div>
@@ -2018,7 +2017,7 @@
 
                                     <div id="text-730102085" class="text">
                                         <h2 style="text-align: center;">SAVE THE DATE</h2>
-                                        <p>Đám cưới sẽ trọn vẹn &amp; ý nghĩa hơn khi có sự hiện diện &amp; chúc phúc của bạn. Hãy xác nhận sự có mặt của mình để Quỳnh &amp; Sơn chuẩn bị đón tiếp chu đáo nhất nha!</p>
+                                        <p>Đám cưới sẽ trọn vẹn &amp; ý nghĩa hơn khi có sự hiện diện &amp; chúc phúc của bạn. Hãy xác nhận sự có mặt của mình để Ngọc &amp; Thắng chuẩn bị đón tiếp chu đáo nhất nha!</p>
 
                                         <style>
                                             #text-730102085 {
@@ -2244,11 +2243,11 @@
                                                 width="1000"
                                                 height="257"
                                                 src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201000%20257%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                data-src="https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2.png"
+                                                data-src="{{('public/frontend/images/Su-Kien-Cuoi-2.png')}}"
                                                 class="lazy-load attachment-original size-original"
                                                 alt=""
                                                 srcset=""
-                                                data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2.png 1000w, https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2.png 300w, https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2.png 768w"
+                                                data-srcset="{{('public/frontend/images/Su-Kien-Cuoi-2.png')}} 1000w, {{('public/frontend/images/Su-Kien-Cuoi-2.png')}} 300w, {{('public/frontend/images/Su-Kien-Cuoi-2.png')}} 768w"
                                                 sizes="(max-width: 1000px) 100vw, 1000px"
                                             />
                                         </div>
@@ -2800,11 +2799,11 @@
                                 width="330"
                                 height="700"
                                 src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20330%20700%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                data-src="https://thiepcuoionline.net/wp-content/uploads/2023/03/Xem-Theam-Maau-Khauc-2.png"
+                                data-src="https://thiepcuoi.nimtechnology.com/wp-content/uploads/2023/03/Xem-Theam-Maau-Khauc-2.png"
                                 class="lazy-load attachment-original size-original"
                                 alt=""
                                 srcset=""
-                                data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/03/Xem-Theam-Maau-Khauc-2.png 330w, https://thiepcuoionline.net/wp-content/uploads/2023/03/Xem-Theam-Maau-Khauc-2-141x300.png 141w"
+                                data-srcset="https://thiepcuoi.nimtechnology.com/wp-content/uploads/2023/03/Xem-Theam-Maau-Khauc-2.png 330w, https://thiepcuoi.nimtechnology.com/wp-content/uploads/2023/03/Xem-Theam-Maau-Khauc-2-141x300.png 141w"
                                 sizes="(max-width: 330px) 100vw, 330px"
                             />
                         </div>
@@ -2935,11 +2934,11 @@
                 arcItem.online = true;
                 arcItem.class = "msg-item-facebook-messenger";
                 arcItem.title = "Chat Facebook";
-                arcItem.subTitle = "@thiepcuoionline.net";
+                arcItem.subTitle = "@thiepcuoi.nimtechnology.com";
                 arcItem.icon =
                     '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224 32C15.9 32-77.5 278 84.6 400.6V480l75.7-42c142.2 39.8 285.4-59.9 285.4-198.7C445.8 124.8 346.5 32 224 32zm23.4 278.1L190 250.5 79.6 311.6l121.1-128.5 57.4 59.6 110.4-61.1-121.1 128.5z"></path></svg>';
                 arcItem.includeIconToSlider = true;
-                arcItem.href = "https://m.me/thiepcuoionline.net";
+                arcItem.href = "https://m.me/thiepcuoi.nimtechnology.com";
                 arcItem.color = "#567AFF";
                 arcItems.push(arcItem);
                 var arcItem = {};
@@ -2966,7 +2965,7 @@
                     layout: "default",
                     drag: false,
                     mode: "regular",
-                    buttonIconUrl: "https://thiepcuoionline.net/wp-content/plugins/ar-contactus/res/img/msg.svg",
+                    buttonIconUrl: "https://thiepcuoi.nimtechnology.com/wp-content/plugins/ar-contactus/res/img/msg.svg",
                     showMenuHeader: false,
                     menuHeaderText: "How would you like to contact us?",
                     menuSubheaderText: "",
@@ -2992,7 +2991,7 @@
                     iconsAnimationSpeed: 600,
                     iconsAnimationPause: 2000,
                     items: arcItems,
-                    ajaxUrl: "https://thiepcuoionline.net/wp-admin/admin-ajax.php",
+                    ajaxUrl: "https://thiepcuoi.nimtechnology.com/wp-admin/admin-ajax.php",
                     promptPosition: "top",
                     popupAnimation: "fadeindown",
                     style: "",
@@ -3007,7 +3006,7 @@
                                 '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path></svg>',
                             success: "Callback request sent! We will contact you soon.",
                             error: "Error sending callback request! Please try again!",
-                            action: "https://thiepcuoionline.net/wp-admin/admin-ajax.php",
+                            action: "https://thiepcuoi.nimtechnology.com/wp-admin/admin-ajax.php",
                             buttons: [{ name: "submit", label: "Submit", type: "submit" }],
                             fields: {
                                 formId: { name: "formId", value: "callback", type: "hidden" },
@@ -3024,7 +3023,7 @@
                                 '<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M464 64H48C21.5 64 0 85.5 0 112v288c0 26.5 21.5 48 48 48h416c26.5 0 48-21.5 48-48V112c0-26.5-21.5-48-48-48zM48 96h416c8.8 0 16 7.2 16 16v41.4c-21.9 18.5-53.2 44-150.6 121.3-16.9 13.4-50.2 45.7-73.4 45.3-23.2.4-56.6-31.9-73.4-45.3C85.2 197.4 53.9 171.9 32 153.4V112c0-8.8 7.2-16 16-16zm416 320H48c-8.8 0-16-7.2-16-16V195c22.8 18.7 58.8 47.6 130.7 104.7 20.5 16.4 56.7 52.5 93.3 52.3 36.4.3 72.3-35.5 93.3-52.3 71.9-57.1 107.9-86 130.7-104.7v205c0 8.8-7.2 16-16 16z"></path></svg>',
                             success: "Email sent! We will contact you soon.",
                             error: "Error sending email! Please try again!",
-                            action: "https://thiepcuoionline.net/wp-admin/admin-ajax.php",
+                            action: "https://thiepcuoi.nimtechnology.com/wp-admin/admin-ajax.php",
                             buttons: [{ name: "submit", label: "Submit", type: "submit" }],
                             fields: {
                                 formId: { name: "formId", value: "email", type: "hidden" },
@@ -3322,14 +3321,14 @@
         <script type="text/javascript" src="{{('public/wp-includes/js/dist/vendor/regenerator-runtime.min6c85.js?ver=0.14.0')}}" id="regenerator-runtime-js"></script>
         <script type="text/javascript" src="{{('public/wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0')}}" id="wp-polyfill-js"></script>
         <script type="text/javascript" src="{{('public/wp-includes/js/hoverIntent.min3e5a.js?ver=1.10.2')}}" id="hoverIntent-js"></script>
-        <script type="text/javascript" id="flatsome-js-js-extra">
+        <!-- <script type="text/javascript" id="flatsome-js-js-extra">
             /* <![CDATA[ */
             var flatsomeVars = {
                 theme: { version: "3.15.7" },
-                ajaxurl: "https:\/\/thiepcuoionline.net\/wp-admin\/admin-ajax.php",
+                ajaxurl: "https:\/\/thiepcuoi.nimtechnology.com\/wp-admin\/admin-ajax.php",
                 rtl: "",
                 sticky_height: "70",
-                assets_url: "https:\/\/thiepcuoionline.net\/wp-content\/themes\/flatsome\/assets\/js\/",
+                assets_url: "https:\/\/thiepcuoi.nimtechnology.com\/wp-content\/themes\/flatsome\/assets\/js\/",
                 lightbox: {
                     close_markup:
                         '<button title="%title%" type="button" class="mfp-close"><svg xmlns="http:\/\/www.w3.org\/2000\/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x"><line x1="18" y1="6" x2="6" y2="18"><\/line><line x1="6" y1="6" x2="18" y2="18"><\/line><\/svg><\/button>',
@@ -3350,7 +3349,7 @@
                 },
             };
             /* ]]> */
-        </script>
+        </script> -->
         <script type="text/javascript" src="{{'public/wp-content/themes/flatsome/assets/js/flatsomebc8e.js?ver=2ba06bae7e21001b4413f16ac4e08981'}}" id="flatsome-js-js"></script>
         <script type="text/javascript" src="{{'public/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load8794.js?ver=3.15.7'}}" id="flatsome-lazy-js"></script>
         <!--[if IE]>
