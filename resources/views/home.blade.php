@@ -31,7 +31,7 @@
         <meta property="og:url" content="https://https://thiepcuoi.nimtechnology.com/" />
         <meta property="og:site_name" content="Thiệp Cưới Online" />
         <meta property="article:modified_time" content="2023-11-03T09:07:32+00:00" />
-        <meta property="og:image" content="https://thiepcuoionline.net/wp-content/uploads/2023/04/Untitled-3.jpg" />
+        <meta property="og:image" content="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1117-1-scaled.jpg" />
         <meta property="og:image:width" content="1648" />
         <meta property="og:image:height" content="786" />
         <meta property="og:image:type" content="image/jpeg" />
@@ -570,7 +570,7 @@
                             padding-top: 450px;
                         }
                         #banner-1853870393 .bg.bg-loaded {
-                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/wed0K9A1117.png);
+                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1117-1-scaled.jpg);
                         }
                         #banner-1853870393 .overlay {
                             background-color: rgba(0, 0, 0, 0.39);
