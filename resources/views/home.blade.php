@@ -2244,11 +2244,11 @@
                                                 width="1000"
                                                 height="257"
                                                 src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201000%20257%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg"
+                                                data-src="https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2.png"
                                                 class="lazy-load attachment-original size-original"
                                                 alt=""
                                                 srcset=""
-                                                data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 1000w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 300w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 768w"
+                                                data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2.png 1000w, https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2.png 300w, https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2.png 768w"
                                                 sizes="(max-width: 1000px) 100vw, 1000px"
                                             />
                                         </div>
@@ -2273,7 +2273,7 @@
                         <div class="row large-columns-4 medium-columns-3 small-columns-2 row-xsmall">
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-32-681x1024.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2281,7 +2281,7 @@
                                                     width="683"
                                                     height="1027"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201027%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-32.jpg"
+                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2289,7 +2289,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-32.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-32-200x300.jpg 200w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-32-681x1024.jpg 681w"
+                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 200w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 681w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2303,7 +2303,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-31.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0968-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2311,7 +2311,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-31.jpg"
+                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0968-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2319,7 +2319,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-31.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-31-200x300.jpg 200w"
+                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0968-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0968-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
