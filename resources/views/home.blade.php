@@ -1213,11 +1213,11 @@
                                                 width="415"
                                                 height="133"
                                                 src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20415%20133%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                data-src="https://thiepcuoionline.net/wp-content/uploads/2023/04/sas01.png"
+                                                data-src="{{('public/frontend/images/our-story.png')}}"
                                                 class="lazy-load attachment-original size-original"
                                                 alt=""
                                                 srcset=""
-                                                data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/04/sas01.png 415w, https://thiepcuoionline.net/wp-content/uploads/2023/04/sas01-300x96.png 300w"
+                                                data-srcset="{{('public/frontend/images/our-story.png')}} 415w, {{('public/frontend/images/our-story.png')}} 300w"
                                                 sizes="(max-width: 415px) 100vw, 415px"
                                             />
                                         </div>
@@ -2165,11 +2165,11 @@
                                                 width="700"
                                                 height="700"
                                                 src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20700%20700%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                data-src="https://thiepcuoionline.net/wp-content/uploads/2023/04/ban-sao-STK.png"
+                                                data-src="{{('public/frontend/images/tk-ngoc.png')}}"
                                                 class="lazy-load attachment-original size-original"
                                                 alt=""
                                                 srcset=""
-                                                data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/04/ban-sao-STK.png 700w, https://thiepcuoionline.net/wp-content/uploads/2023/04/ban-sao-STK-300x300.png 300w, https://thiepcuoionline.net/wp-content/uploads/2023/04/ban-sao-STK-150x150.png 150w"
+                                                data-srcset="{{('public/frontend/images/tk-ngoc.png')}} 700w, {{('public/frontend/images/tk-ngoc.png')}} 300w, {{('public/frontend/images/tk-ngoc.png')}} 150w"
                                                 sizes="(max-width: 700px) 100vw, 700px"
                                             />
                                         </div>
@@ -2192,11 +2192,11 @@
                                                 width="700"
                                                 height="700"
                                                 src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20700%20700%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                data-src="https://thiepcuoionline.net/wp-content/uploads/2023/04/233.png"
+                                                data-src="{{('public/frontend/images/tk-thang.png')}}"
                                                 class="lazy-load attachment-original size-original"
                                                 alt=""
                                                 srcset=""
-                                                data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/04/233.png 700w, https://thiepcuoionline.net/wp-content/uploads/2023/04/233-300x300.png 300w, https://thiepcuoionline.net/wp-content/uploads/2023/04/233-150x150.png 150w"
+                                                data-srcset="{{('public/frontend/images/tk-thang.png')}} 700w, {{('public/frontend/images/tk-thang.png')}} 300w, {{('public/frontend/images/tk-thang.png')}} 150w"
                                                 sizes="(max-width: 700px) 100vw, 700px"
                                             />
                                         </div>
@@ -2244,11 +2244,11 @@
                                                 width="1000"
                                                 height="257"
                                                 src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201000%20257%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                data-src="https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2.png"
+                                                data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg"
                                                 class="lazy-load attachment-original size-original"
                                                 alt=""
                                                 srcset=""
-                                                data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2.png 1000w, https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2-300x77.png 300w, https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2-768x197.png 768w"
+                                                data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 1000w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 300w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 768w"
                                                 sizes="(max-width: 1000px) 100vw, 1000px"
                                             />
                                         </div>
