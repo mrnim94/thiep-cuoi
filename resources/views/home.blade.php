@@ -2483,7 +2483,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-19.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1439-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2491,7 +2491,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-19.jpg"
+                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1439-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2499,7 +2499,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-19.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-19-200x300.jpg 200w"
+                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1439-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1439-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2513,7 +2513,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-10.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1509-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2521,7 +2521,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-10.jpg"
+                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1509-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2529,7 +2529,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-10.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-10-200x300.jpg 200w"
+                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1509-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1509-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2543,7 +2543,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-11.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1528-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2551,7 +2551,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-11.jpg"
+                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1528-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2559,7 +2559,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-11.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-11-200x300.jpg 200w"
+                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1528-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1528-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2573,7 +2573,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-6.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1556-epik-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2581,7 +2581,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-6.jpg"
+                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1556-epik-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2589,7 +2589,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-6.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-6-200x300.jpg 200w"
+                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1556-epik-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1556-epik-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
