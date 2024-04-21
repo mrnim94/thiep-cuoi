@@ -2228,6 +2228,428 @@
                         }
                     </style>
                 </section>
+
+                <!-- The extra Anh cuoi -->
+                <section class="section" id="section_431469795">
+                    <div class="bg section-bg fill bg-fill bg-loaded"></div>
+
+                    <div class="section-content relative">
+                        <div class="row align-center" id="row-455277572">
+                            <div id="col-974662647" class="col medium-10 small-12 large-10">
+                                <div class="col-inner text-center">
+                                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1820124713">
+                                        <div class="img-inner dark">
+                                            <img
+                                                decoding="async"
+                                                width="1000"
+                                                height="257"
+                                                src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201000%20257%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                data-src="https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2.png"
+                                                class="lazy-load attachment-original size-original"
+                                                alt=""
+                                                srcset=""
+                                                data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2.png 1000w, https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2-300x77.png 300w, https://thiepcuoionline.net/wp-content/uploads/2023/06/Su-Kien-Cuoi-2-768x197.png 768w"
+                                                sizes="(max-width: 1000px) 100vw, 1000px"
+                                            />
+                                        </div>
+
+                                        <style>
+                                            #image_1820124713 {
+                                                width: 60%;
+                                            }
+                                            @media (min-width: 550px) {
+                                                #image_1820124713 {
+                                                    width: 32%;
+                                                }
+                                            }
+                                        </style>
+                                    </div>
+
+                                    <p style="text-align: center;">Được ai đó yêu sâu sắc sẽ mang lại cho bạn sức mạnh, trong khi yêu ai đó sâu sắc sẽ cho bạn dũng khí.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row large-columns-4 medium-columns-3 small-columns-2 row-xsmall">
+                            <div class="gallery-col col">
+                                <div class="col-inner">
+                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-32-681x1024.jpg" title="">
+                                        <div class="box has-hover gallery-box box-shade dark">
+                                            <div class="box-image">
+                                                <img
+                                                    decoding="async"
+                                                    width="683"
+                                                    height="1027"
+                                                    src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201027%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-32.jpg"
+                                                    class="lazy-load attachment-original size-original"
+                                                    alt=""
+                                                    ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
+                                                    style="shade"
+                                                    col_spacing="xsmall"
+                                                    image_size="original"
+                                                    srcset=""
+                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-32.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-32-200x300.jpg 200w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-32-681x1024.jpg 681w"
+                                                    sizes="(max-width: 683px) 100vw, 683px"
+                                                />
+                                                <div class="shade"></div>
+                                            </div>
+                                            <div class="box-text text-left">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="gallery-col col">
+                                <div class="col-inner">
+                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-31.jpg" title="">
+                                        <div class="box has-hover gallery-box box-shade dark">
+                                            <div class="box-image">
+                                                <img
+                                                    decoding="async"
+                                                    width="683"
+                                                    height="1024"
+                                                    src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-31.jpg"
+                                                    class="lazy-load attachment-original size-original"
+                                                    alt=""
+                                                    ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
+                                                    style="shade"
+                                                    col_spacing="xsmall"
+                                                    image_size="original"
+                                                    srcset=""
+                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-31.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-31-200x300.jpg 200w"
+                                                    sizes="(max-width: 683px) 100vw, 683px"
+                                                />
+                                                <div class="shade"></div>
+                                            </div>
+                                            <div class="box-text text-left">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="gallery-col col">
+                                <div class="col-inner">
+                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-23.jpg" title="">
+                                        <div class="box has-hover gallery-box box-shade dark">
+                                            <div class="box-image">
+                                                <img
+                                                    decoding="async"
+                                                    width="683"
+                                                    height="1024"
+                                                    src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-23.jpg"
+                                                    class="lazy-load attachment-original size-original"
+                                                    alt=""
+                                                    ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
+                                                    style="shade"
+                                                    col_spacing="xsmall"
+                                                    image_size="original"
+                                                    srcset=""
+                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-23.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-23-200x300.jpg 200w"
+                                                    sizes="(max-width: 683px) 100vw, 683px"
+                                                />
+                                                <div class="shade"></div>
+                                            </div>
+                                            <div class="box-text text-left">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="gallery-col col">
+                                <div class="col-inner">
+                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-22.jpg" title="">
+                                        <div class="box has-hover gallery-box box-shade dark">
+                                            <div class="box-image">
+                                                <img
+                                                    decoding="async"
+                                                    width="683"
+                                                    height="1024"
+                                                    src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-22.jpg"
+                                                    class="lazy-load attachment-original size-original"
+                                                    alt=""
+                                                    ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
+                                                    style="shade"
+                                                    col_spacing="xsmall"
+                                                    image_size="original"
+                                                    srcset=""
+                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-22.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-22-200x300.jpg 200w"
+                                                    sizes="(max-width: 683px) 100vw, 683px"
+                                                />
+                                                <div class="shade"></div>
+                                            </div>
+                                            <div class="box-text text-left">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="gallery-col col">
+                                <div class="col-inner">
+                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-21.jpg" title="">
+                                        <div class="box has-hover gallery-box box-shade dark">
+                                            <div class="box-image">
+                                                <img
+                                                    decoding="async"
+                                                    width="683"
+                                                    height="1024"
+                                                    src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-21.jpg"
+                                                    class="lazy-load attachment-original size-original"
+                                                    alt=""
+                                                    ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
+                                                    style="shade"
+                                                    col_spacing="xsmall"
+                                                    image_size="original"
+                                                    srcset=""
+                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-21.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-21-200x300.jpg 200w"
+                                                    sizes="(max-width: 683px) 100vw, 683px"
+                                                />
+                                                <div class="shade"></div>
+                                            </div>
+                                            <div class="box-text text-left">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="gallery-col col">
+                                <div class="col-inner">
+                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-20.jpg" title="">
+                                        <div class="box has-hover gallery-box box-shade dark">
+                                            <div class="box-image">
+                                                <img
+                                                    decoding="async"
+                                                    width="683"
+                                                    height="1024"
+                                                    src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-20.jpg"
+                                                    class="lazy-load attachment-original size-original"
+                                                    alt=""
+                                                    ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
+                                                    style="shade"
+                                                    col_spacing="xsmall"
+                                                    image_size="original"
+                                                    srcset=""
+                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-20.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-20-200x300.jpg 200w"
+                                                    sizes="(max-width: 683px) 100vw, 683px"
+                                                />
+                                                <div class="shade"></div>
+                                            </div>
+                                            <div class="box-text text-left">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="gallery-col col">
+                                <div class="col-inner">
+                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-18.jpg" title="">
+                                        <div class="box has-hover gallery-box box-shade dark">
+                                            <div class="box-image">
+                                                <img
+                                                    decoding="async"
+                                                    width="683"
+                                                    height="1024"
+                                                    src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-18.jpg"
+                                                    class="lazy-load attachment-original size-original"
+                                                    alt=""
+                                                    ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
+                                                    style="shade"
+                                                    col_spacing="xsmall"
+                                                    image_size="original"
+                                                    srcset=""
+                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-18.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-18-200x300.jpg 200w"
+                                                    sizes="(max-width: 683px) 100vw, 683px"
+                                                />
+                                                <div class="shade"></div>
+                                            </div>
+                                            <div class="box-text text-left">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="gallery-col col">
+                                <div class="col-inner">
+                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-19.jpg" title="">
+                                        <div class="box has-hover gallery-box box-shade dark">
+                                            <div class="box-image">
+                                                <img
+                                                    decoding="async"
+                                                    width="683"
+                                                    height="1024"
+                                                    src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-19.jpg"
+                                                    class="lazy-load attachment-original size-original"
+                                                    alt=""
+                                                    ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
+                                                    style="shade"
+                                                    col_spacing="xsmall"
+                                                    image_size="original"
+                                                    srcset=""
+                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-19.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-19-200x300.jpg 200w"
+                                                    sizes="(max-width: 683px) 100vw, 683px"
+                                                />
+                                                <div class="shade"></div>
+                                            </div>
+                                            <div class="box-text text-left">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="gallery-col col">
+                                <div class="col-inner">
+                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-10.jpg" title="">
+                                        <div class="box has-hover gallery-box box-shade dark">
+                                            <div class="box-image">
+                                                <img
+                                                    decoding="async"
+                                                    width="683"
+                                                    height="1024"
+                                                    src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-10.jpg"
+                                                    class="lazy-load attachment-original size-original"
+                                                    alt=""
+                                                    ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
+                                                    style="shade"
+                                                    col_spacing="xsmall"
+                                                    image_size="original"
+                                                    srcset=""
+                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-10.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-10-200x300.jpg 200w"
+                                                    sizes="(max-width: 683px) 100vw, 683px"
+                                                />
+                                                <div class="shade"></div>
+                                            </div>
+                                            <div class="box-text text-left">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="gallery-col col">
+                                <div class="col-inner">
+                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-11.jpg" title="">
+                                        <div class="box has-hover gallery-box box-shade dark">
+                                            <div class="box-image">
+                                                <img
+                                                    decoding="async"
+                                                    width="683"
+                                                    height="1024"
+                                                    src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-11.jpg"
+                                                    class="lazy-load attachment-original size-original"
+                                                    alt=""
+                                                    ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
+                                                    style="shade"
+                                                    col_spacing="xsmall"
+                                                    image_size="original"
+                                                    srcset=""
+                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-11.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-11-200x300.jpg 200w"
+                                                    sizes="(max-width: 683px) 100vw, 683px"
+                                                />
+                                                <div class="shade"></div>
+                                            </div>
+                                            <div class="box-text text-left">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="gallery-col col">
+                                <div class="col-inner">
+                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-6.jpg" title="">
+                                        <div class="box has-hover gallery-box box-shade dark">
+                                            <div class="box-image">
+                                                <img
+                                                    decoding="async"
+                                                    width="683"
+                                                    height="1024"
+                                                    src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-6.jpg"
+                                                    class="lazy-load attachment-original size-original"
+                                                    alt=""
+                                                    ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
+                                                    style="shade"
+                                                    col_spacing="xsmall"
+                                                    image_size="original"
+                                                    srcset=""
+                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-6.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-6-200x300.jpg 200w"
+                                                    sizes="(max-width: 683px) 100vw, 683px"
+                                                />
+                                                <div class="shade"></div>
+                                            </div>
+                                            <div class="box-text text-left">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="gallery-col col">
+                                <div class="col-inner">
+                                    <a class="image-lightbox lightbox-gallery" href="../wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-2.jpg" title="">
+                                        <div class="box has-hover gallery-box box-shade dark">
+                                            <div class="box-image">
+                                                <img
+                                                    decoding="async"
+                                                    width="683"
+                                                    height="1024"
+                                                    src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                    data-src="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-2.jpg"
+                                                    class="lazy-load attachment-original size-original"
+                                                    alt=""
+                                                    ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
+                                                    style="shade"
+                                                    col_spacing="xsmall"
+                                                    image_size="original"
+                                                    srcset=""
+                                                    data-srcset="https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-2.jpg 683w, https://thiepcuoionline.net/wp-content/uploads/2023/11/Album-anh-cuoi-dep-tai-tam-dao-2-200x300.jpg 200w"
+                                                    sizes="(max-width: 683px) 100vw, 683px"
+                                                />
+                                                <div class="shade"></div>
+                                            </div>
+                                            <div class="box-text text-left">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <style>
+                        #section_431469795 {
+                            padding-top: 30px;
+                            padding-bottom: 30px;
+                        }
+                        #section_431469795 .ux-shape-divider--top svg {
+                            height: 150px;
+                            --divider-top-width: 100%;
+                        }
+                        #section_431469795 .ux-shape-divider--bottom svg {
+                            height: 150px;
+                            --divider-width: 100%;
+                        }
+                    </style>
+                </section>
+
                 <!-- Music -->
                 <div class="tdk-music">
                     <div class="tdk-bg-player"></div>
