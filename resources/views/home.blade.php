@@ -31,7 +31,7 @@
         <meta property="og:url" content="https://https://thiepcuoi.nimtechnology.com/" />
         <meta property="og:site_name" content="Thiệp Cưới Online" />
         <meta property="article:modified_time" content="2024-04-22T12:18:00+07:00" />
-        <meta property="og:image" content="https://nimtechnology.com/wp-content/uploads/2024/04/2024-04-22_00-07.png" />
+        <meta property="og:image" content="https://notes.nimtechnology.com/wp-content/uploads/2024/04/2024-04-22_00-07.png" />
         <meta property="og:image:width" content="1648" />
         <meta property="og:image:height" content="786" />
         <meta property="og:image:type" content="image/jpeg" />
@@ -570,7 +570,7 @@
                             padding-top: 450px;
                         }
                         #banner-1853870393 .bg.bg-loaded {
-                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/wed0K9A1117.png);
+                            background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/wed0K9A1117.png);
                         }
                         #banner-1853870393 .overlay {
                             background-color: rgba(0, 0, 0, 0.39);
@@ -1042,7 +1042,7 @@
                                                             background-color: rgba(0, 0, 0, 0);
                                                         }
                                                         #banner-648725967 .bg.bg-loaded {
-                                                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1117-1-scaled.jpg);
+                                                            background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1117-1-scaled.jpg);
                                                         }
                                                         #banner-648725967 .bg {
                                                             background-position: 51% 14%;
@@ -1105,7 +1105,7 @@
                                                             background-color: rgba(0, 0, 0, 0);
                                                         }
                                                         #banner-1328206251 .bg.bg-loaded {
-                                                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1175-scaled.jpg);
+                                                            background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1175-scaled.jpg);
                                                         }
                                                         #banner-1328206251 .bg {
                                                             background-position: 65% 40%;
@@ -1493,7 +1493,7 @@
                                                 background-color: rgba(0, 0, 0, 0);
                                             }
                                             #banner-1663837998 .bg.bg-loaded {
-                                                background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1100-scaled.jpg);
+                                                background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1100-scaled.jpg);
                                             }
                                             #banner-1663837998 .bg {
                                                 background-position: 55% 12%;
@@ -1813,7 +1813,7 @@
                                                             background-color: rgba(0, 0, 0, 0);
                                                         }
                                                         #banner-1346173674 .bg.bg-loaded {
-                                                            background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1655-scaled.jpg);
+                                                            background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1655-scaled.jpg);
                                                         }
                                                         #banner-1346173674 .bg {
                                                             background-position: 20% 85%;
@@ -1932,7 +1932,7 @@
                                                 background-color: rgba(0, 0, 0, 0);
                                             }
                                             #banner-1486844012 .bg.bg-loaded {
-                                                background-image: url(https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1339-epik-scaled.jpg);
+                                                background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1339-epik-scaled.jpg);
                                             }
                                             #banner-1486844012 .bg {
                                                 background-position: 4% 90%;
@@ -2272,7 +2272,7 @@
                         <div class="row large-columns-4 medium-columns-3 small-columns-2 row-xsmall">
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2280,7 +2280,7 @@
                                                     width="683"
                                                     height="1027"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201027%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2288,7 +2288,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 200w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 681w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 200w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A0796-scaled.jpg 681w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2302,7 +2302,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0968-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A0968-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2310,7 +2310,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0968-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A0968-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2318,7 +2318,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0968-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A0968-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A0968-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A0968-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2332,7 +2332,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1060-2-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1060-2-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2340,7 +2340,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1060-2-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1060-2-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2348,7 +2348,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1060-2-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1060-2-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1060-2-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1060-2-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2362,7 +2362,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1236-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1236-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2370,7 +2370,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1236-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1236-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2378,7 +2378,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1236-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1236-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1236-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1236-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2392,7 +2392,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1296-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1296-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2400,7 +2400,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1296-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1296-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2408,7 +2408,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1296-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1296-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1296-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1296-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2422,7 +2422,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1407-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1407-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2430,7 +2430,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1407-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1407-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2438,7 +2438,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1407-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1407-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1407-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1407-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2452,7 +2452,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1423-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1423-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2460,7 +2460,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1423-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1423-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2468,7 +2468,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1423-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1423-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1423-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1423-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2482,7 +2482,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1439-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1439-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2490,7 +2490,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1439-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1439-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2498,7 +2498,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1439-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1439-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1439-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1439-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2512,7 +2512,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1509-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1509-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2520,7 +2520,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1509-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1509-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2528,7 +2528,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1509-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1509-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1509-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1509-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2542,7 +2542,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1528-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1528-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2550,7 +2550,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1528-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1528-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2558,7 +2558,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1528-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1528-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1528-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1528-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2572,7 +2572,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1556-epik-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1556-epik-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2580,7 +2580,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1556-epik-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1556-epik-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2588,7 +2588,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1556-epik-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1556-epik-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1556-epik-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1556-epik-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2602,7 +2602,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1494-epik-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1494-epik-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2610,7 +2610,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1494-epik-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1494-epik-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2618,7 +2618,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1494-epik-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1494-epik-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1494-epik-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1494-epik-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2632,7 +2632,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1614-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1614-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2640,7 +2640,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1614-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1614-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2648,7 +2648,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1614-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1614-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1614-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1614-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2662,7 +2662,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1655-2-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1655-2-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2670,7 +2670,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1655-2-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1655-2-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2678,7 +2678,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1655-2-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1655-2-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1655-2-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1655-2-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2692,7 +2692,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1637-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1637-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2700,7 +2700,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1637-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1637-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2708,7 +2708,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1637-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1637-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1637-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1637-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2722,7 +2722,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1631-2-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1631-2-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2730,7 +2730,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1631-2-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1631-2-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2738,7 +2738,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1631-2-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1631-2-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1631-2-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1631-2-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2752,7 +2752,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1809-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1809-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2760,7 +2760,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1809-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1809-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2768,7 +2768,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1809-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1809-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1809-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1809-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2782,7 +2782,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1750-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1750-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2790,7 +2790,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1750-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1750-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2798,7 +2798,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1750-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1750-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1750-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1750-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2812,7 +2812,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1747-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1747-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2820,7 +2820,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1747-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1747-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2828,7 +2828,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1747-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1747-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1747-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1747-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2842,7 +2842,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1734-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1734-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2850,7 +2850,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1734-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1734-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2858,7 +2858,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1734-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1734-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1734-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1734-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2872,7 +2872,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/20240423_004559_376-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/20240423_004559_376-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2880,7 +2880,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/20240423_004559_376-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/20240423_004559_376-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2888,7 +2888,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/20240423_004559_376-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/20240423_004559_376-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/20240423_004559_376-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/20240423_004559_376-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2902,7 +2902,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1842-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1842-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2910,7 +2910,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1842-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1842-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2918,7 +2918,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1842-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1842-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1842-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1842-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2932,7 +2932,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1853-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1853-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2940,7 +2940,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1853-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1853-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2948,7 +2948,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1853-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1853-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1853-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1853-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2962,7 +2962,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1877-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1877-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -2970,7 +2970,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1877-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1877-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -2978,7 +2978,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1877-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1877-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1877-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1877-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -2992,7 +2992,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1886-epik-1-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1886-epik-1-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -3000,7 +3000,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1886-epik-1-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1886-epik-1-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -3008,7 +3008,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1886-epik-1-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1886-epik-1-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1886-epik-1-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1886-epik-1-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -3022,7 +3022,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1984-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1984-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -3030,7 +3030,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1984-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1984-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -3038,7 +3038,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1984-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A1984-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1984-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1984-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
@@ -3052,7 +3052,7 @@
                             </div>
                             <div class="gallery-col col">
                                 <div class="col-inner">
-                                    <a class="image-lightbox lightbox-gallery" href="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A2035-scaled.jpg" title="">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A2035-scaled.jpg" title="">
                                         <div class="box has-hover gallery-box box-shade dark">
                                             <div class="box-image">
                                                 <img
@@ -3060,7 +3060,7 @@
                                                     width="683"
                                                     height="1024"
                                                     src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
-                                                    data-src="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A2035-scaled.jpg"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A2035-scaled.jpg"
                                                     class="lazy-load attachment-original size-original"
                                                     alt=""
                                                     ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
@@ -3068,7 +3068,7 @@
                                                     col_spacing="xsmall"
                                                     image_size="original"
                                                     srcset=""
-                                                    data-srcset="https://nimtechnology.com/wp-content/uploads/2024/04/0K9A2035-scaled.jpg 683w, https://nimtechnology.com/wp-content/uploads/2024/04/0K9A2035-scaled.jpg 200w"
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A2035-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A2035-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
