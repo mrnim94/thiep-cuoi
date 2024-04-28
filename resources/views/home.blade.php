@@ -1493,7 +1493,7 @@
                                                 background-color: rgba(0, 0, 0, 0);
                                             }
                                             #banner-1663837998 .bg.bg-loaded {
-                                                background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1100-scaled.jpg);
+                                                background-image: url(https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1509-scaled.jpg);
                                             }
                                             #banner-1663837998 .bg {
                                                 background-position: 55% 12%;
