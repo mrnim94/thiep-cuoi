@@ -1597,7 +1597,7 @@
 
                     <div class="section-content relative">
                         <h2 style="text-align: center;">KHOẢNH KHẮC ĐẸP NHẤT</h2>
-                        <p>Cùng ngắm nhìn những bức hình đẹp nhất của chúng mình nhé!</p>
+                        <p style="text-align: center;">Cùng ngắm nhìn những bức hình đẹp nhất của chúng mình nhé!</p>
                         <div class="row row-collapse align-middle align-center" id="row-863429592">
                             <div id="col-1383332318" class="col medium-12 small-12 large-12">
                                 <div class="col-inner">
