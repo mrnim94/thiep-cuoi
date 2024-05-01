@@ -1566,9 +1566,9 @@
                                     </div>
 
                                     <p>
-                                        Mình là cung Song Tử. Một người ít nói, rất dễ hoà đồng với mọi người&#8230;nhưng có tính xấu là hay giận hờn vu vơ. Bản thân mình rất thích đi chơi đây đó và muốn sau này có thể tìm được người đi
-                                        cùng mình và chịu được tính hay hờn dỗi . Và một ngày, anh &#8220;xuất hiện&#8221; giữa hàng vạn người, thì mình biết đã tìm đúng người. Anh rất khác mình, hoạt bát, vui vẻ nhưng có những lúc rất khó
-                                        tính. Dù quen nhau nhưng tính cách cả hai không ai giống ai.
+                                        &#8220;Không ngờ được&#8221; đó là cảm xúc khi chúng mình nhìn lại hành trình 5 năm đồng hành yêu nhau. Hai con người với 2 tính cách đối lập lại bị thu hút bởi chính những điều khác biệt đó ở nhau nhưng cũng lại bổ sung cho cuộc sống của nhau thêm nhiều màu sắc.
+                                        <br>
+                                        Chúng mình đến với nhau lúc đầu đơn giản chỉ nghĩ là yêu, và &#8220;Không ngờ được&#8221; giờ thì&#8230; chúng mình kết hôn rồi.
                                     </p>
                                 </div>
                             </div>
@@ -1596,7 +1596,8 @@
                     <div class="bg section-bg fill bg-fill bg-loaded"></div>
 
                     <div class="section-content relative">
-                        <h2 style="text-align: center;">ALBUM ẢNH</h2>
+                        <h2 style="text-align: center;">KHOẢNH KHẮC ĐẸP NHẤT</h2>
+                        <p>Cùng ngắm nhìn những bức hình đẹp nhất của chúng mình nhé!</p>
                         <div class="row row-collapse align-middle align-center" id="row-863429592">
                             <div id="col-1383332318" class="col medium-12 small-12 large-12">
                                 <div class="col-inner">
@@ -3069,6 +3070,36 @@
                                                     image_size="original"
                                                     srcset=""
                                                     data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A2035-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A2035-scaled.jpg 200w"
+                                                    sizes="(max-width: 683px) 100vw, 683px"
+                                                />
+                                                <div class="shade"></div>
+                                            </div>
+                                            <div class="box-text text-left">
+                                                <p></p>
+                                            </div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="gallery-col col">
+                                <div class="col-inner">
+                                    <a class="image-lightbox lightbox-gallery" href="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1595-scaled.jpg" title="">
+                                        <div class="box has-hover gallery-box box-shade dark">
+                                            <div class="box-image">
+                                                <img
+                                                    decoding="async"
+                                                    width="683"
+                                                    height="1024"
+                                                    src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20683%201024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+                                                    data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1595-scaled.jpg"
+                                                    class="lazy-load attachment-original size-original"
+                                                    alt=""
+                                                    ids="9715,9714,9710,9709,9708,9707,9705,9706,9699,9698,9697,9696"
+                                                    style="shade"
+                                                    col_spacing="xsmall"
+                                                    image_size="original"
+                                                    srcset=""
+                                                    data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1595-scaled.jpg 683w, https://notes.nimtechnology.com/wp-content/uploads/2024/04/0K9A1595-scaled.jpg 200w"
                                                     sizes="(max-width: 683px) 100vw, 683px"
                                                 />
                                                 <div class="shade"></div>
