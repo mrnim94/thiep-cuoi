@@ -1323,10 +1323,7 @@
                                         </style>
                                     </div>
 
-                                    <p>
-                                        Tôi hiện đang làm &#8220;một anh IT&#8221; cần sự tỉ mỉ thì tính tôi cũng vậy, khá kỹ tính, luôn chuẩn chỉnh trong công việc .Nhưng tôi lại là một người khác hoàn toàn khác khi ở cạnh cô ấy &#8211; vô tư, nhí nhố, hay
-                                        giận hờn vu vơ. Dù hai chúng tôi không có điểm chung nào cả (cô ấy là Nữ và tôi là Nam), nhưng trái tính thì lại hợp nhau phết !!!
-                                    </p>
+                                    <p>Mình hiện đang làm "IT" cần sự tỉ mỉ, và tính cách mình cũng vậy khá kỹ tính, luôn chuẩn chỉnh trong công việc. Nhưng mình lại là một người khác hoàn toàn khi ở cạnh cô ấy – nhí nhố, hay thích trêu cô ấy và lắm khi nhõng nhẽo ngược lại với cô ấy. Dù hai chúng mình đôi khi không có điểm chung nào cả (cô ấy là Nữ và mình là Nam), tuy "trái dấu" nhưng chúng mình lại hút nhau</p>
                                 </div>
                             </div>
 
