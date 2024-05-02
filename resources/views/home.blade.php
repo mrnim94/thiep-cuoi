@@ -1235,17 +1235,9 @@
                                     </div>
 
                                     <p>
-                                        Chuyện tình của chúng mình bắt đầu rất đơn giản-qua &#8220;Facebook&#8221;. Hai người xa lạ không ai biết ai. Từ câu thả thính trong 1 bức ảnh than thở độc thân của Ngọc &#8220;Có Thắng nè!!!&#8221; và Từ đó mình bắt đầu theo đuổi cô gái dễ thương này!!!<br />
-                                        Khoảng thời gian yêu nhau của bọn mình khá lâu(
-                                        <a
-                                            title="‌"
-                                            href="https://business.facebook.com/latest/inbox/all?asset_id=100603709620195&amp;mailbox_id=&amp;selected_item_id=100009365053734#"
-                                            target="_blank"
-                                            rel="nofollow noopener noreferrer ugc"
-                                        >
-                                            5 năm
-                                        </a>
-                                        ). Có những cãi vã, những giận hờn, những lần chia tay đẫm nước mắt. Nhưng cuối cùng vẫn ở bên nhau và kết thúc bằng một &#8220;happy ending&#8221; tuyệt vời này &#8230;&#8230;
+                                        Chuyện tình của chúng mình bắt đầu rất đơn giản qua “Facebook”. Dẫu từng biết nhau và làm chung, nhưng chưa  một lần nói chuyện cùng nhau vì nghĩ đối phương đã có người thương. Vô tình trên status Facebook mình biết được cô ấy vẫn độc thân, vì để gây ấn tượng mình đã thả cảm xúc "buồn" thay vì vui và từ đó mình bắt đầu theo đuổi cô gái dễ thương này!!!
+                                        <br />
+                                        Khoảng thời gian yêu nhau của bọn mình khá lâu (5 năm). Có những cãi vã, những giận hờn,... . Nhưng cuối cùng vẫn ở bên nhau và kết thúc bằng một “happy ending” tuyệt vời này.
                                     </p>
                                 </div>
 
