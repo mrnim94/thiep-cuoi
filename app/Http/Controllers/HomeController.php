@@ -7,6 +7,7 @@ use DB;
 use Session;
 use Illuminate\Support\Facades\Redirect;
 use App\Http\Requests;
+use Carbon\Carbon;
 session_start();
 
 class HomeController extends Controller
@@ -22,6 +23,12 @@ class HomeController extends Controller
         $data['relationship_to_couple'] = $request->relationship_to_couple;
         $data['party_size'] = $request->party_size;
         $data['message_to_couple'] = $request->message_to_couple;
+
+        // Set timestamps to UTC+7
+        $currentTimestamp = Carbon::now('UTC+7');
+        $data['created_at'] = $currentTimestamp;
+        $data['updated_at'] = $currentTimestamp;
+        
         // echo '<pre>';
         // print_r($data);
         // echo '</pre>';
