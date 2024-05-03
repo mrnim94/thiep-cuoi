@@ -25,7 +25,7 @@ class HomeController extends Controller
         $data['message_to_couple'] = $request->message_to_couple;
 
         // Set timestamps to UTC+7
-        $currentTimestamp = now('Europe/London')->toIso8601String();
+        $currentTimestamp = now('Asia/Ho_Chi_Minh')->toIso8601String();
         $data['created_at'] = $currentTimestamp;
         $data['updated_at'] = $currentTimestamp;
         
