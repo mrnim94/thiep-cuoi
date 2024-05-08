@@ -2034,6 +2034,7 @@
                                                             value=""
                                                             type="text"
                                                             name="your_name"
+                                                            required
                                                         />
                                                     </span>
                                                 </p>
@@ -2074,7 +2075,7 @@
                                                 </p>
                                                 <p>
                                                     <label>Gửi lời chúc tới vợ chồng mình </label><br />
-                                                    <span class="wpcf7-form-control-wrap" data-name="message_to_couple"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" placeholder="Ghi lời chúc của bạn" name="message_to_couple"></textarea></span>
+                                                    <span class="wpcf7-form-control-wrap" data-name="message_to_couple"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" placeholder="Ghi lời chúc của bạn" name="message_to_couple" required></textarea></span>
                                                 </p>
                                                 <p><input class="wpcf7-form-control has-spinner wpcf7-submit button" type="submit" value="XÁC NHẬN THAM DỰ" /></p>
                                             </div>
