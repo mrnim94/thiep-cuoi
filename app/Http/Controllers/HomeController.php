@@ -24,7 +24,7 @@ class HomeController extends Controller
         $data['relationship_to_couple'] = $request->relationship_to_couple;
         $data['party_size'] = $request->party_size;
         if ($request->message_to_couple == "") {
-            $data['message_to_couple'] = "Trống"
+            $data['message_to_couple'] = "Trống";
         } else {
             $data['message_to_couple'] = $request->message_to_couple;
         }
