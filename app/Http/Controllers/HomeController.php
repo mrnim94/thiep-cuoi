@@ -23,7 +23,11 @@ class HomeController extends Controller
         $data['attendance_status'] = $request->attendance_status;
         $data['relationship_to_couple'] = $request->relationship_to_couple;
         $data['party_size'] = $request->party_size;
-        $data['message_to_couple'] = $request->message_to_couple;
+        if ($request->message_to_couple == "") {
+            $data['message_to_couple'] = "Trống"
+        } else {
+            $data['message_to_couple'] = $request->message_to_couple;
+        }
 
         // Set timestamps to UTC+7
         $currentTimestamp = Carbon::now('Asia/Ho_Chi_Minh')->format('Y-m-d H:i:s');
