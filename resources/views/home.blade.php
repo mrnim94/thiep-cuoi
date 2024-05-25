@@ -981,6 +981,49 @@
                                 </div>
                             </div>
                         </div>
+
+                        <!-- Map slot -->
+                        <div class="row align-center" id="row-1934910927">
+                            <div id="col-1964211995" class="col medium-10 small-12 large-10">
+                                <div class="col-inner text-center">
+                                    <h2 style="text-align: center;">Sơ đồ chỗ ngồi</h2>
+                                    <div id="gap-1534465783" class="gap-element clearfix" style="display: block; height: auto;">
+                                        <style>
+                                            #gap-1534465783 {
+                                                padding-top: 25px;
+                                            }
+                                        </style>
+                                    </div>
+                                    <div class="img has-hover x md-x lg-x y md-y lg-y" id="image_858788596">
+                                        <div class="img-inner dark">
+                                            <img
+                                                decoding="async"
+                                                width="1536"
+                                                height="512"
+                                                src="https://notes.nimtechnology.com/wp-content/uploads/2024/05/photo_6235423315946750315_y.jpg"
+                                                data-src="https://notes.nimtechnology.com/wp-content/uploads/2024/05/photo_6235423315946750315_y.jpg"
+                                                class="attachment-original size-original lazy-load-active"
+                                                alt=""
+                                                srcset="
+                                                https://notes.nimtechnology.com/wp-content/uploads/2024/05/photo_6235423315946750315_y.jpg          1536w,
+                                                https://notes.nimtechnology.com/wp-content/uploads/2024/05/photo_6235423315946750315_y.jpg   300w,
+                                                https://notes.nimtechnology.com/wp-content/uploads/2024/05/photo_6235423315946750315_y.jpg 1024w,
+                                                https://notes.nimtechnology.com/wp-content/uploads/2024/05/photo_6235423315946750315_y.jpg   768w
+                                                "
+                                                data-srcset="https://notes.nimtechnology.com/wp-content/uploads/2024/05/photo_6235423315946750315_y.jpg 1536w, https://notes.nimtechnology.com/wp-content/uploads/2024/05/photo_6235423315946750315_y.jpg 300w, https://notes.nimtechnology.com/wp-content/uploads/2024/05/photo_6235423315946750315_y.jpg 1024w, https://notes.nimtechnology.com/wp-content/uploads/2024/05/photo_6235423315946750315_y.jpg 768w"
+                                                sizes="(max-width: 1536px) 100vw, 1536px"
+                                            />
+                                        </div>
+                                        <style>
+                                            #image_858788596 {
+                                                width: 100%;
+                                            }
+                                        </style>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
 
                     <style>
