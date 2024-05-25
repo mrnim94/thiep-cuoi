@@ -986,7 +986,9 @@
                         <div class="row align-center" id="row-1934910927">
                             <div id="col-1964211995" class="col medium-10 small-12 large-10">
                                 <div class="col-inner text-center">
-                                    <h2 style="text-align: center;">Sơ đồ chỗ ngồi</h2>
+                                    <h2 style="text-align: center;">Sơ đồ vị trí</h2>
+                                    <h5 style="text-align: center;">Cùng tìm chiến hữu của bạn ở đây nhé</h5>
+
                                     <div id="gap-1534465783" class="gap-element clearfix" style="display: block; height: auto;">
                                         <style>
                                             #gap-1534465783 {
